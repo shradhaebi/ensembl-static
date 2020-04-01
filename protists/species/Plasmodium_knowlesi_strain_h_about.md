@@ -1,0 +1,20 @@
+About *Plasmodium knowlesi strain H* {#about-plasmodium-knowlesi-strain-h .first}
+------------------------------------
+
+[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Plasmodium_knowlesi)
+
+***Plasmodium knowlesi*** is a primate malaria parasite commonly found
+in Southeast Asia. It causes malaria in long-tailed macaques (*Macaca
+fascicularis*), but it may also infect humans, either naturally or
+artificially.
+
+*Plasmodium knowlesi* is the sixth major human malaria parasite
+(following the division of *Plasmodium ovale* into 2 species). It may
+cause severe malaria as indicated by its asexual erythrocytic cycle of
+about 24 hours, This is an emerging infection that was reported for the
+first time in humans in 1965. It accounts for up to 70% *Plasmodium
+knowlesi* has health, social and economic consequences for the regions
+affected by it.
+
+([Text](http://en.wikipedia.org/wiki/Plasmodium_knowlesi) from
+[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)

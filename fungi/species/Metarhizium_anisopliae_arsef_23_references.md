@@ -1,0 +1,12 @@
+### References
+
+1.  [Genome sequencing and comparative transcriptomics of the model
+    entomopathogenic fungi Metarhizium anisopliae and M.
+    acridum](http://europepmc.org/abstract/MED/21253567).\
+    Gao Q, Jin K, Ying SH, Zhang Y, Xiao G, Shang Y, Duan Z, Hu X, Xie
+    XQ, Zhou G et al. 2011. PLoS Genet.. 7:e1001264.
+2.  [Trajectory and genomic determinants of fungal-pathogen speciation
+    and host adaptation](http://europepmc.org/abstract/MED/25368161).\
+    Hu X, Xiao G, Zheng P, Shang Y, Su Y, Zhang X, Liu X, Zhan S, St
+    Leger RJ, Wang C. 2014. Proc. Natl. Acad. Sci. U.S.A..
+    111:16796-16801.

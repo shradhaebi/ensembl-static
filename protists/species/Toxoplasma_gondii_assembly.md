@@ -1,0 +1,9 @@
+Assembly
+--------
+
+The *T. gondii* genome is \~70 Mb in size and consists of 14
+chromosomes. The *T. gondii* genome, like many other apicomplexan
+parasites possess a nonphotosynthetic plastid, referred to as the
+apicoplast. The assembly is also[ available from the EMBL/Genbank/DDBJ
+databases under the accession
+[GCA\_000006565.2](http://www.ebi.ac.uk/ena/data/view/GCA_000006565.2)]{style="font-family:luxi sans,helvetica,arial,geneva,sans-serif"}

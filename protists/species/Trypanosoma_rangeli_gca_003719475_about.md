@@ -1,0 +1,22 @@
+About *Trypanosoma rangeli* {#about-trypanosoma-rangeli .first}
+---------------------------
+
+[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Trypanosoma_rangeli)
+
+***Trypanosoma rangeli*** is a species of hemoflagellate excavate
+parasites of the genus Trypanosoma. Although infecting a variety of
+mammalian species in a wide geographical area in Central and South
+America, this parasite is considered as non-pathogenic to these hosts.
+***T. rangeli*** is transmitted by bite of infected triatomine bugs of
+the Reduviidae family, commonly known as barbeiro, *winchuka*
+*(vinchuca)*, chinche, pito ou chupão.
+
+The genome was published in September 2014.
+
+Occurring in sympatry with ***Trypanosoma cruzi*** , the etiological
+agent of Chagas disease, in wide geographical areas in the Americas,
+***T. rangeli*** shares hosts, vectors and a large amount of its
+antigenic coat ***T. cruzi*** leading to misdiagnosis of Chagas disease.
+
+([Text](http://en.wikipedia.org/wiki/Trypanosoma_rangeli) from
+[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)

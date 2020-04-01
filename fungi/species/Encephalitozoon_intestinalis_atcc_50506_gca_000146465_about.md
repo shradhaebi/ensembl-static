@@ -1,0 +1,20 @@
+About *Encephalitozoon intestinalis ATCC 50506 (GCA\_000146465)* {#about-encephalitozoon-intestinalis-atcc-50506-gca_000146465 .first}
+----------------------------------------------------------------
+
+[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Encephalitozoon_intestinalis)
+
+***Encephalitozoon intestinalis*** is a parasite. It can cause
+microsporidiosis.
+
+It is notable as having one of the smallest genome among known
+eukaryotic organisms, containing only 2.25 million base pairs. Its
+genome was completely sequenced in 2010.
+
+*E. intestinalis* originally named Septata intestinalis, was
+reclassified based on morphologic, antigenic and molecular similarities
+with other species of the genus Encephalitozoon. Recently, Some domestic
+and wild animals have been found to be naturally infected with *E.
+intestinalis* and some other microsporidian species.
+
+([Text](http://en.wikipedia.org/wiki/Encephalitozoon_intestinalis) from
+[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
