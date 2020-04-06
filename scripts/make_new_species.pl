@@ -1,23 +1,24 @@
 #!/usr/bin/env perl
 
-# Create new markdown documents for a species static content.
+# Create new markdown drafts for a species static content.
 # By default .md files are copied from templates, but other 
-# existing species can be used instead.
+# existing species can be used as well.
 
 use strict;
 use warnings;
 use Getopt::Std;
+use File::Copy;
 use FindBin '$Bin';
 
 my $TEMPLATEDIR = $Bin.'/../templates/';
-my @NVDIVISIONS = qw( plants ); #fungi metazoa plants protists );
+my @NVDIVISIONS = qw( plants fungi metazoa plants protists );
 my @DEFAULT = qw( about assembly annotation references );
 my @OPTIONAL = qw( other regulation variation acknowledgement );
 
 ##############################################################
 
 my ($spname,$copy,$do_var,$do_reg,$do_ack,$do_others) = ('','',0,0,0,0);
-my (@sections,%opts,$section,$source_path,$path);
+my (@sections,%opts,$section,$source_path,$bk_path,$path);
 
 getopts('n:c:vraoh', \%opts);
 
@@ -38,6 +39,13 @@ if($opts{'n'}){
   $spname = $opts{'n'};
 
   # validate species names
+  
+  # 1st char should be in capitals
+  if($spname !~ /^[A-Z]/){
+    $spname = ucfirst($spname);
+  }
+
+  # binomial or trinomial only
   my $num_name_words = 0;
   while($spname =~ /[^_]+_*/g){
     $num_name_words++;
@@ -47,8 +55,9 @@ if($opts{'n'}){
     die "# ERROR: please use a binomial or trinomial species name\n";
   }
 
-  # set default source_path
+  # set default source_path, which is also backup 
   $source_path = $TEMPLATEDIR;
+  $bk_path = $TEMPLATEDIR;
 
   # add default sections
   @sections = @DEFAULT;
@@ -58,7 +67,7 @@ if($opts{'n'}){
 if($opts{'c'}){
   $copy = $opts{'c'};
   
-  # check this species actually exits
+  # check copy species actually exits
   my @files;
   foreach my $div (@NVDIVISIONS){
 
@@ -69,17 +78,21 @@ if($opts{'c'}){
     closedir(DIV);
   
     if(@files){ 
+	
+      # make sure only one species matches 	
       if(scalar(@files) > 1){
         die "# ERROR: matched several species to copy: ".join(',',@files)."\n";        
       }
 
+      # save source path
+	  $files[0] =~ s/about.md//;
       $source_path = "$path/$files[0]";
 	  last;
 	}
   }
 }
 
-print "# source: $source_path\n";
+print "# source: $source_path*\n";
 
 # add optional files/section of static content
 foreach $section (@OPTIONAL){
@@ -92,4 +105,19 @@ foreach $section (@OPTIONAL){
   }
 }
 
-#print @sections;
+# actually create new .md files from source templates
+foreach $section (@sections){
+
+  # warn if target file exists
+  if(-s "$spname\_$section.md"){
+    print "# file $spname\_$section.md already exists, skip it\n";
+	next;
+  }
+  
+  if(-e "$source_path$section.md"){
+    copy("$source_path$section.md", "$spname\_$section.md")
+  } else {
+    copy("$bk_path$section.md", "$spname\_$section.md")
+  }
+}
+
