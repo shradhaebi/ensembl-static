@@ -1,4 +1,4 @@
-About *Genes species*
+About *Genus species*
 ---------------------
 
 <!-- *Arabidopsis thaliana* is a small flowering plant that is widely used as
