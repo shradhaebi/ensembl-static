@@ -3,6 +3,15 @@
 # Create new markdown drafts for a species static content.
 # By default .md files are copied from templates, but other 
 # existing species can be used as well.
+# Resulting files are placed in CWD.
+#
+# Example call:
+#
+# perl ensembl-static/scripts/make_new_species.pl -n Persea_americana -v -r
+#
+# or when you want to copy from a previous species:
+#
+# perl ensembl-static/scripts/make_new_species.pl -n Camelina_sativa -c Beta_vulgaris
 
 use strict;
 use warnings;
