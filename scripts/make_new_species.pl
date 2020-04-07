@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 
-# Create new markdown drafts for a species static content.
+# Creates new folder with markdown drafts for a species static content.
 # By default .md files are copied from templates, but other 
 # existing species can be used as well.
 # Resulting files are placed in CWD.
@@ -83,7 +83,7 @@ if($opts{'c'}){
     # find file among all division files
     $path = $Bin."/../$div/species";
     opendir(DIV,$path) || die "# ERROR: cannot list $path\n";
-    @files = grep {/^$copy\_about.md/i} readdir(DIV);	
+    @files = grep {/^$copy/i} readdir(DIV);	
     closedir(DIV);
   
     if(@files){ 
@@ -94,8 +94,7 @@ if($opts{'c'}){
       }
 
       # save source path
-	  $files[0] =~ s/about.md//;
-      $source_path = "$path/$files[0]";
+      $source_path = "$path/$files[0]/";
 	  last;
 	}
   }
@@ -114,19 +113,22 @@ foreach $section (@OPTIONAL){
   }
 }
 
+# create new folder
+mkdir("$spname");
+
 # actually create new .md files from source templates
 foreach $section (@sections){
 
   # warn if target file exists
-  if(-s "$spname\_$section.md"){
-    print "# file $spname\_$section.md already exists, skip it\n";
+  if(-s "$spname/$spname\_$section.md"){
+    print "# file $spname/$spname\_$section.md already exists, skip it\n";
 	next;
   }
   
   if(-e "$source_path$section.md"){
-    copy("$source_path$section.md", "$spname\_$section.md")
+    copy("$source_path$section.md", "$spname/$spname\_$section.md")
   } else {
-    copy("$bk_path$section.md", "$spname\_$section.md")
+    copy("$bk_path$section.md", "$spname/$spname\_$section.md")
   }
 }
 
