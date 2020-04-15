@@ -1,0 +1,1 @@
+Release 47 of Ensembl Bacteria has an updated pan-taxonomic compara (which includes key bacterial species) and a fresh set of flat files on the FTP server. There are no other significant changes from the last release to the genomes and genes. There are a total of 44,048 genomes.

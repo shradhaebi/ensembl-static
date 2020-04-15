@@ -1,0 +1,1 @@
+"High confidence" orthologs are calculated using a [range of methods](http://ensemblgenomes.org/info/data/peptide_compara), including gene order conservation and congruence with whole genome alignments.
