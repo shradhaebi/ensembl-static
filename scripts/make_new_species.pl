@@ -125,8 +125,8 @@ foreach $section (@sections){
 	next;
   }
   
-  if(-e "$source_path$section.md"){
-    copy("$source_path$section.md", "$spname/$spname\_$section.md")
+  if($copy && -e "$source_path/$copy\_$section.md"){
+    copy("$source_path/$copy\_$section.md", "$spname/$spname\_$section.md")
   } else {
     copy("$bk_path$section.md", "$spname/$spname\_$section.md")
   }
