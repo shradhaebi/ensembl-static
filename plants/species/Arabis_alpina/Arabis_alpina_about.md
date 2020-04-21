@@ -1,10 +1,4 @@
-About *Arabidopsis alpina*
+About *Arabis alpina*
 --------------------------
 
-The self-incompatible species *Arabidopsis halleri* is a close relative
-of the self-compatible model plant *Arabidopsis thaliana*. The broad
-European and Asian distribution and heavy metal hyperaccumulation
-ability make *A. halleri* a useful model for ecological genomics
-studies. The sequenced individual, *A. halleri* ssp. *gemmifera* Tada
-mine genotype (W302), was collected from a site with high contamination
-by heavy metals in Japan.
+*Arabis alpina*, the Alpine rock-cress (2n=16), is a close relative of *Arabidopsis thaliana* belonging to the family Brassicaceae. It is a perennial model organism. Since it is self-compatible and genetically transformable, mutagenized populations and inbred homozygous lines can be produced. A. alpina belongs to the tribe Arabideae, in which several perennial and annual species can be found.

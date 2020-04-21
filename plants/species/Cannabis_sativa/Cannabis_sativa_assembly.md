@@ -1,0 +1,3 @@
+### Assembly
+
+A female of cultivar CBDRx was sequenced with ultra-long Nanopore reads (34x) and its chromosomes resolved using markers from a ultra-high-density genetic map of 96 recombinant individuals resulting from a cross between near-isogenic lines Skunk#1 and Carmen. The genome was assembled using a correction-less pipeline that consisted of an overlap (minimap2), layout (miniasm2) consensus (racon), followed by a polishing step (pilon) using a 64x Illumina 2x100 bp paired end reads. The resulting assembly was 746 Mbp in 1,986 contigs with an N50 length of 742 kb and the longest contig 4.5 Mbp.

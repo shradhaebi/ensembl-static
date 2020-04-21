@@ -60,7 +60,7 @@ if($opts{'n'}){
     $num_name_words++;
   }
 
-  if($num_name_words < 2 || $num_name_words > 3){
+  if($num_name_words < 2){
     die "# ERROR: please use a binomial or trinomial species name\n";
   }
 
@@ -125,8 +125,8 @@ foreach $section (@sections){
 	next;
   }
   
-  if(-e "$source_path$section.md"){
-    copy("$source_path$section.md", "$spname/$spname\_$section.md")
+  if($copy && -e "$source_path/$copy\_$section.md"){
+    copy("$source_path/$copy\_$section.md", "$spname/$spname\_$section.md")
   } else {
     copy("$bk_path$section.md", "$spname/$spname\_$section.md")
   }
