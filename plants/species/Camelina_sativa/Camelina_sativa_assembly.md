@@ -1,0 +1,3 @@
+### Assembly
+
+The genome of a homozygous doubled haploid line (DH55) was sequenced using a hybrid Illumina and Roche 454 next-generation sequencing (NGS) approach. Filtered sequence data (96.53 Gb) provided 123x coverage of the estimated genome size, which was assembled using a hierarchical assembly strategy into 37,871 scaffolds. A high-density genetic map based on 3,575 polymorphic markers allowed 608.54 Mb of the assembled genome, represented by 588 scaffolds to be anchored to the 20 chromosomes of *C. sativa*, thereby producing a highly contiguous final assembly with an N50 size of >30 Mb. The final genome assembly contains 641.45 Mb of sequence, covering 82% of the estimated genome size, 95% of which is in 20 chromosomes.

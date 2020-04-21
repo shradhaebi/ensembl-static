@@ -1,0 +1,4 @@
+About *Setaria viridis*
+-----------------------
+
+The green foxtail, *Setaria viridis* (2n=2x=18, AA), is a wild ancestor of cultivated foxtail millet. It is a model system for warm-season (C4) grasses within the Panicoideae, a group of ca. 3300 species that includes not only essential grain, forage and biofuel crops, but also ecological dominants of tropical and warm temperate environments. Green foxtail plants are generally small, with a short life cycle (seed to seed in 8-10 weeks) and self-compatible, with a single inflorescence that often produces hundreds of seeds. Transformation is efficient, and is amenable to CRisPR-Cas9 mediated mutagenesis. This genome is the result of the collaboration led by the Donald Danforth Plant Science Center, the Joint Genome Institute, HudsonAlpha Institute for Biotechnology and RIKEN.

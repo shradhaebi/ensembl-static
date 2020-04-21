@@ -1,5 +1,3 @@
-Gene annotation was performed with AUGUSTUS v3.0.3 using RNA-seq data
-from leaves and roots (see Paape *et al*. 2016). Human readable
-functional descriptions were generated with AHRD. Out of 32,553 genes,
-21,433 were reciprocal best blast hits with *Arabidopsis thaliana*
-TAIR10 genes.
+Gene annotations were performed using the evidence based ab initio gene-prediction tools Augustus and EuGen. In total 135 Gb of RNA seq reads from various tissues and developmental stages were used. The final annotation consisted of 30,729 protein-coding genes of which 514 genes were curated in a manual annotation jamboree held in 2012. Overall, 85% (26,109) of the genes had similarity to one or more genes in A. thaliana, as computed with BLASTP. For 92% (23,924) of the conserved genes there was expression evidence in seedlings, whereas 67% (3,096) of the remaining genes, without similarity to A. thaliana genes, were also detected as expressed.
+
+Repeats were annotated with the [Ensembl Genomes repeat feature pipeline](http://ensemblgenomes.org/info/data/repeat_features). There are: 519,436 Low complexity (Dust) features, covering 42 Mb (13.6% of the genome); 158,266 RepeatMasker features (with the REdat library), covering 58 Mb (19.0% of the genome); 1,675 RepeatMasker features (with the RepBase library), covering 0 Mb (0.1% of the genome); 150514 Tandem repeats (TRF) features, covering 14 Mb (4.5% of the genome).

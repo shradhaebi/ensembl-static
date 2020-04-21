@@ -1,0 +1,3 @@
+### Assembly
+
+Genomic DNA was extracted from the double-haploid line DHL92, the same line sequenced to obtain the previous version of the genome. A total of 2.5M PacBio long reads were generated, which corresponds to 50x coverage of the estimated genome, and using the hierarchical genome-assembly process 4 (HGAP4) pipeline. The resulting contigs were ordered and oriented based on the previous assembly (v3.6.1) with RaGOO to produce pseudomolecules. The new consensus sequences were polished with 20x Illumina paired-end reads (2x150 bp) and error corrected with the Pilon pipeline. The completeness of the final assembly was evaluated with BUSCO yielding 94.8% of complete and 1.7% of fragmented BUSCOs at the genome level.

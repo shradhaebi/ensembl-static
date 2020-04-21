@@ -1,0 +1,4 @@
+About *Camelina sativa*
+-----------------------
+
+*Camelina sativa* (false flax, gold of pleasure, German sesame) is a relict oilseed crop of the Crucifer family (Brassicaceae) with centres of origin in SE Europe and SW Asia. *C. sativa* was cultivated in Europe as an important oilseed crop for many centuries before being displaced by higher-yielding crops such as canola and wheat. It has several agronomic advantages for production, including early maturity, low requirement for water and nutrients, adaptability to adverse environmental conditions and resistance to common cruciferous pests and pathogens. It is currently being re-embraced as an industrial oil platform crop. *C. sativa* is diploid (2n=40) with an estimated genome size of 785 Mb, retaining a well preserved hexaploid genome as a result of a whole-genome triplication event.
