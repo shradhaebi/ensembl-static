@@ -9,4 +9,4 @@ elegans* sequence was published in Science in December 1998, and
 although the last remaining gap in the sequence was closed in October
 2002, the genome sequence and annotation continue to be actively curated
 by WormBase. The assembly here is **WBcel235**, which corresponds with
-WormBase [WS260](ftp://ftp.wormbase.org/pub/wormbase/releases/WS260).
+WormBase [WS269](ftp://ftp.wormbase.org/pub/wormbase/releases/WS269).
