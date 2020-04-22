@@ -23,6 +23,10 @@ use Pod::Usage;
 
 =head1 USAGE
 
+Dryrun copy everything to live:
+
+copy_files_to_websites.pl --release=101-48 --site=live --dryrun
+
 Copy everything to staging:
 
 copy_files_to_websites.pl --release=101-48 --site=staging
@@ -33,14 +37,16 @@ copy_files_to_websites.pl --release=101-48 --division=plants --species-only
 
 =cut
 
-my ($SCRIPT_ROOT, $help, $version, $release, $site, $division, $home_only, $species_only);
+my ($SCRIPT_ROOT, $help, $verbose, $dryrun, $version, $release, $site, $division, $home_only, $species_only);
 
 BEGIN{
   &GetOptions(
-              'help'            => \$help,
-              'release=s'       => \$release,
+              'help|h'          => \$help,
+              'verbose|v'       => \$verbose,
+              'dryrun|d'        => \$dryrun,
+              'release|r=s'     => \$release,
               'site:s'          => \$site,
-              'division:s'      => \$division,
+              'division|div:s'  => \$division,
               'home-only:s'     => \$home_only,
               'species-only:s'  => \$species_only,
   );
@@ -139,20 +145,20 @@ sub copy_files {
   my ($in, $out, $recurse) = @_;
 
   my $cmd = "cp $in/* $out";
-  print "Executing $cmd\n";
-  #system($cmd);
+  print "Executing $cmd\n" if $verbose;
+  system($cmd) unless $dryrun;
 
   if ($recurse) {
     $cmd = "cp $in/*/* $out";
-    print "Executing $cmd\n";
-    #system($cmd);
+    print "Executing $cmd\n" if $verbose;
+    system($cmd) unless $dryrun;
     $cmd = "cp $in/*/*/* $out";
-    print "Executing $cmd\n";
-    #system($cmd);
+    print "Executing $cmd\n" if $verbose;
+    system($cmd) unless $dryrun;
   }
 
 }
 
-print "Done!\n\n";
+print "\nDone!\n\n";
 
 
