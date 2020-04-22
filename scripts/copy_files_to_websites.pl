@@ -84,7 +84,10 @@ else {
   $division_string = "eg-web-$division";
 }
 
-print "Copying files into $OUT_ROOT/$division_string...\n\n";
+print "Copying files into $OUT_ROOT/$division_string\nIs this correct? [y/n]\n\n";
+
+my $response = <STDIN>;
+die "Aborting!\n\n" unless ($response =~ /^y/i); 
 
 ## TODO - check that ensembl-static is on same branch as desired eg-version 
 
@@ -102,7 +105,13 @@ my $sp_img_out    = 'htdocs/i/species';
 my ($input_dir, $output_dir);
 
 foreach my $div (@divisions) {
-  print "Copying $div files...\n\n";
+  
+  if ($dryrun) {
+    print "\n Dryrun: $div...\n\n";
+  }
+  else {
+    print "\n Copying $div files...\n\n";
+  }
 
   my $div_in_dir     = $SCRIPT_ROOT.'/'.$div;
   my $div_out_dir    = $site ? sprintf('%s/www_%s', $OUT_ROOT, $version) : $OUT_ROOT;
@@ -110,6 +119,9 @@ foreach my $div (@divisions) {
 
   ## Copy home content
   unless ($species_only) {
+
+    print "... home content\n";
+
     ## Text files
     $input_dir  = $div_in_dir.$home_text_in;
     $output_dir = $div_out_dir.$home_text_out;
@@ -119,12 +131,14 @@ foreach my $div (@divisions) {
     $input_dir  = $div_in_dir.$home_img_in;
     $output_dir = $div_out_dir.$home_img_out;
     copy_files($input_dir, $output_dir);
-
-    print "Copied home content\n";
+    print "\n";
   }
 
   ## Copy species content
   unless ($home_only) {
+
+    print "... species content\n";
+
     ## Text files
     $input_dir  = $div_in_dir.$sp_text_in;
     $output_dir = $div_out_dir.$sp_text_out;
@@ -135,8 +149,7 @@ foreach my $div (@divisions) {
     $input_dir  = $div_in_dir.$sp_img_in;
     $output_dir = $div_out_dir.$sp_img_out;
     copy_files($input_dir, $output_dir);
-
-    print "Copied species content\n";
+    print "\n";
   }
 
 }
@@ -150,10 +163,10 @@ sub copy_files {
 
   if ($recurse) {
     $cmd = "cp $in/*/* $out";
-    print "Executing $cmd\n" if $verbose;
+    print "Executing: $cmd\n" if $verbose;
     system($cmd) unless $dryrun;
     $cmd = "cp $in/*/*/* $out";
-    print "Executing $cmd\n" if $verbose;
+    print "Executing: $cmd\n" if $verbose;
     system($cmd) unless $dryrun;
   }
 
