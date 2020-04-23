@@ -69,10 +69,14 @@ my @divisions = $division ? ($division) : qw(bacteria fungi metazoa plants proti
 my ($OUT_ROOT, $OUT_DIR, $division_string);
 
 if ($site) {
-  if ($site !~ /staging|test|live/) {
-    die "Please set the destination as either staging or live. Note that test sites use the live checkouts for the upcoming release.\n";
+  if ($site !~ /staging|test|live|debug/) {
+    die "Valid destinations are: staging, test, live, debug. Note that 'test' is treated as a synonym for 'live' in the current setup .\n";
   }
   $site = 'live' if $site eq 'test';
+  if ($site eq 'debug' && !$division) { 
+    print "The debug site defaults to using plants static content.\n";
+    @divisions = ('plants');
+  }
   $OUT_ROOT = "/nfs/public/release/ensweb/$site";
   $division_string = join('|', @divisions)."/www_$version";
 }
@@ -115,7 +119,14 @@ foreach my $div (@divisions) {
 
   my $div_in_dir     = $SCRIPT_ROOT.'/'.$div;
   my $div_out_dir    = $site ? sprintf('%s/www_%s', $OUT_ROOT, $version) : $OUT_ROOT;
-  $div_out_dir      .= "/eg-web-$div/";
+
+  ## We only have one debug site for all divisions
+  if ($site eq 'debug') {
+    $div_out_dir .= "/eg-all/";
+  }
+  else {
+    $div_out_dir .= "/eg-web-$div/";
+  }
 
   ## The SSI directory is not present in Git, so create it
   my $out_path = $div_out_dir.$home_text_out;
