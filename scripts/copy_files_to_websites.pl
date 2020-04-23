@@ -117,6 +117,10 @@ foreach my $div (@divisions) {
   my $div_out_dir    = $site ? sprintf('%s/www_%s', $OUT_ROOT, $version) : $OUT_ROOT;
   $div_out_dir      .= "/eg-web-$div/";
 
+  ## The SSI directory is not present in Git, so create it
+  my $out_path = $div_out_dir.$home_text_out;
+  mkdir($out_path);
+
   ## Copy home content
   unless ($species_only) {
 
@@ -138,6 +142,12 @@ foreach my $div (@divisions) {
   unless ($home_only) {
 
     print "... species content\n";
+
+    ## Subdirectories also not in Git
+    $out_path = $div_out_dir.$sp_text_out;
+    mkdir($out_path);
+    $out_path = $div_out_dir.$sp_img_out;
+    mkdir($out_path);
 
     ## Text files
     $input_dir  = $div_in_dir.$sp_text_in;
