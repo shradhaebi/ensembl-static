@@ -99,7 +99,7 @@ die "Aborting!\n\n" unless ($response =~ /^y/i);
 my $home_text_in  = '';
 my $home_img_in   = '/images';
 my $sp_text_in    = '/species';
-my $sp_img_in     = '/species/images';
+my $sp_img_in     = '/images/species';
 
 ## Define output directories for each type of content
 my $home_text_out = 'htdocs/ssi';
