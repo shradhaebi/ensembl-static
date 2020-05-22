@@ -1,9 +1,6 @@
 Assembly
 --------
 
-::: {.field .field-name-body .field-type-text-with-summary .field-label-hidden style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); margin: 0px 0px 30px; padding: 0px;"}
-::: {.field-items style="margin: 0px; padding: 0px;"}
-::: {.field-item .even style="margin: 0px; padding: 0px;"}
 As described in [Holt et al.
 (2002)](http://www.ncbi.nlm.nih.gov/pubmed?term=12364791), plasmid and
 BAC DNA libraries were constructed with stringently size-selected PEST
@@ -45,18 +42,15 @@ chromosomes. The new GenBank entries, CM000356-CM000360, reflect the
 revised 2L, 2R, 3L, 3R and X chromosome assemblies. This new assembly
 (AgamP3) of non-redundant \~264 Mb is still probably an overestimation
 of the true genome size ([Sharakhova et al.
-2007)](http://www.ncbi.nlm.nih.gov/pubmed?term=17210077).
+2007](http://www.ncbi.nlm.nih.gov/pubmed?term=17210077)).
 
 **The AgamP4 assembly differs from the previous version, AgamP3, by the
 addition of the mitochondrial genome (L20934, 16,655 bp) which includes
 13 protein-coding and 24 ncRNAs (22 tRNA and 2 rRNA genes).**
 
-[Additional notes compiled on known assembly issues from the initial
+Additional notes compiled on known assembly issues from the initial
 VectorBase project can be found
-]{style="background-color:rgb(255, 255, 255); color:rgb(102, 102, 102); font-family:arial,helvetica,verdana,bitstream vera sans,sans-serif; font-size:12px"}[here](https://www.vectorbase.org/content/notes-scaffolds-anopheles-gambiae-pest-whole-genome-shotgun-assembly)[.]{style="background-color:rgb(255, 255, 255); color:rgb(102, 102, 102); font-family:arial,helvetica,verdana,bitstream vera sans,sans-serif; font-size:12px"}
-:::
-:::
-:::
+[here](https://www.vectorbase.org/content/notes-scaffolds-anopheles-gambiae-pest-whole-genome-shotgun-assembly).
 
 Source:
 [VectorBase](https://www.vectorbase.org/organisms/anopheles-gambiae/pest/agamp4).

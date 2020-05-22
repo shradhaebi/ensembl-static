@@ -1,4 +1,3 @@
-::: {style="font-family: Geneva, Helvetica, Arial, sans-serif; font-size: 12.8px; line-height: 19.2px; border-radius: 10px; color: rgb(0, 0, 0); padding: 10px 15px; margin: 5px 0px 10px; background-color: rgb(224, 224, 224);"}
 **NOTE:** The genome sequence and annotation for *O. volvulus* are
 updated in Ensembl Metazoa approximately once per year. The data here
 correspond with WormBase
@@ -6,7 +5,6 @@ correspond with WormBase
 latest genome and annotation, please visit [WormBase
 ParaSite](http://parasite.wormbase.org) (for an Ensembl-oriented view),
 or [WormBase](http://www.wormbase.org).
-:::
 
 About *Onchocerca volvulus*
 ---------------------------

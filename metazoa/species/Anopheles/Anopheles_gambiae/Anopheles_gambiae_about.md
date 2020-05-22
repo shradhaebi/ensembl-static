@@ -1,8 +1,6 @@
 About *Anopheles gambiae*
 -------------------------
 
-<div>
-
 ### Range
 
 Anopheles gambiae senso stricto is the primary mosquito vector
