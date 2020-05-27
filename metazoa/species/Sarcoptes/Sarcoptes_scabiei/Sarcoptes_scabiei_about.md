@@ -1,8 +1,6 @@
 About *Sarcoptes scabiei*
 -------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Sarcoptes_scabiei)
-
 ***Sarcoptes scabiei***, the itch mite, is a parasitic arthropod that
 burrows into skin and causes scabies. The mite is cosmopolitan, meaning
 it can be found in all parts of the world. Humans are not the only

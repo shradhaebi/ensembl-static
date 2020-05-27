@@ -1,8 +1,6 @@
 About *Octopus bimaculoides*
 ----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/California_two-spot_octopus)
-
 The **California two-spot octopus** (*Octopus bimaculoides*), despite
 the first part of its name, has a range throughoput the eastern Pacific
 and the Indo-Pacific. The second part of its name derives from the false

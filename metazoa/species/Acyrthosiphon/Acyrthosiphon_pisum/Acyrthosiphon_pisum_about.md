@@ -1,4 +1,4 @@
-About *Acyrthosiphon pisum* {#about-acyrthosiphon-pisum .first}
+About *Acyrthosiphon pisum*
 ---------------------------
 
 Aphids are common agricultural pests that feed on sap from the phloem

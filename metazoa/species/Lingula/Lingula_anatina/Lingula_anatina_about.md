@@ -1,8 +1,6 @@
 About *Lingula anatina*
 -----------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Lingula_(brachiopod))
-
 ***Lingula*** is a genus of brachiopods within the class Lingulata.
 *Lingula* is known as \"moule-à-queue\" (tailed mussel) in New
 Caledonia, \"bec de cane\" (duck bill) along some coasts in the Indian

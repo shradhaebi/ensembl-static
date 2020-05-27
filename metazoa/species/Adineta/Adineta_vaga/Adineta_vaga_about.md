@@ -1,8 +1,6 @@
 About *Adineta vaga*
 --------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Bdelloidea)
-
 ***Adineta vaga*** is a bdelloid rotifer, a class of rotifers found in
 freshwater habitats all over the world. There are over 450 described
 species of bdelloid rotifers, distinguished from each other mainly on

@@ -1,7 +1,7 @@
 About *Aedes albopictus*
 ------------------------
 
-*The* Asian tiger mosquito, *Aedes* albopictus, is native to Asia but
+The **Asian tiger** mosquito, *Aedes albopictus*, is native to Asia but
 over the past century it has become established in almost 30 countries
 in the old and new world. It has the ability to act as a vector for many
 viral agents including those responsible for [Dengue

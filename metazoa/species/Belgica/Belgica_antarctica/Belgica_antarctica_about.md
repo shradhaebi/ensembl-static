@@ -1,8 +1,6 @@
 About *Belgica antarctica*
 --------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Belgica_antarctica)
-
 ***Belgica antarctica***, the Antarctic midge, is a species of
 flightless midge, endemic to the continent of Antarctica. At 2--6 mm
 (0.079--0.236 in) long, it is the largest purely terrestrial animal on
