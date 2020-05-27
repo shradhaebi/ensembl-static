@@ -3,4 +3,4 @@
 		- Updated BioMarts for all gene and variation data
 		- Updated pan-taxonomic gene trees and homologies
 - New species loaded
-	- Tigriopus californicus (San Diego strain)
+	- _Tigriopus californicus_ (San Diego strain)
