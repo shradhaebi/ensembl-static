@@ -8,4 +8,5 @@
    Vol. 2, Issue 8.
    doi: 10.1038/s41559-018-0588-1.
 
-Picture credit: Greg Rouse (image source: [*The Burton Lab* site, Scripps Institution of Oceanography](http://burtonlab.weebly.com/store/c1/Featured_Products.html))
+Picture credit: Greg Rouse (image source: [***The Burton Lab*** site, Scripps Institution of Oceanography, UCSD
+Marine Biology Research Division](http://burtonlab.weebly.com/store/c1/Featured_Products.html))
