@@ -1,7 +1,7 @@
 About *Glossina morsitans*
 --------------------------
 
-Male and female [*tsetse*]{style="font-size:14px"} flies are the vectors
+Male and female *tsetse* flies are the vectors
 of the *trypanosomes* that cause African sleeping sickness in humans and
 nagana in animals. It is conservatively estimated by the World Health
 Organization that there are currently between 300,000 and 500,000 cases

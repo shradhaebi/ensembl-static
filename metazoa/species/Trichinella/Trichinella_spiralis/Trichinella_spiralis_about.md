@@ -1,9 +1,7 @@
-::: {style="font-family: Geneva, Helvetica, Arial, sans-serif; font-size: 12.8px; line-height: 19.2px; border-radius: 10px; color: rgb(0, 0, 0); padding: 10px 15px; margin: 5px 0px 10px; background-color: rgb(224, 224, 224);"}
 **NOTE:** The genome sequence and annotation represented here correspond
 with the original genome publication (Mitreva et al, 2011). For the
 latest data, including the genomes of other *Trichinella* species,
 please visit [WormBase ParaSite](http://parasite.wormbase.org).
-:::
 
 About *Trichinella spiralis*
 ----------------------------

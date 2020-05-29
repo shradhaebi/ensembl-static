@@ -1,4 +1,4 @@
-Abou*t Anopheles atroparvus*
+About *Anopheles atroparvus*
 ----------------------------
 
 ### Range
@@ -33,12 +33,12 @@ evidence that identifies this species as preferentially biting indoors
 or outdoors. The opportunistic nature of its feeding habits and
 zoophilic preference, however, would suggest it is probably exophagic
 but that biting location could also depend upon the setting and
-accessibility of the host. *An*. *atroparvus* rests and hibernates in
+accessibility of the host. *An. atroparvus* rests and hibernates in
 animal sheds and stables.
 
 ### Vectorial capacity
 
-*An. atroparvu*s is largely unable to transmit tropical strains of
+*An. atroparvus* is largely unable to transmit tropical strains of
 *Plasmodium falciparum* but competent in supporting a European strain.
 
 This text was modified from Sinka ME et al. (2010) [The dominant

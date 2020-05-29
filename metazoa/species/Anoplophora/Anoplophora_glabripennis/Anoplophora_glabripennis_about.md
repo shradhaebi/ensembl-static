@@ -1,8 +1,6 @@
 About *Anoplophora glabripennis*
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Asian_long-horned_beetle)
-
 The **Asian long-horned beetle** (*Anoplophora glabripennis*), also
 known as the starry sky, sky beetle, or ALB, is native to eastern China,
 Japan, and Korea. This species has now been accidentally introduced into

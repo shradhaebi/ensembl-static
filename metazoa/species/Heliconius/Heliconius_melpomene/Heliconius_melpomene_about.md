@@ -1,4 +1,4 @@
-About *Heliconius melpomene* {#about-heliconius-melpomene .first}
+About *Heliconius melpomene*
 ----------------------------
 
 Within the butterflies, the combined traits of daytime flight and

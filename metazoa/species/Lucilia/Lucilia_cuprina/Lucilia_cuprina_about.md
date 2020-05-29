@@ -1,8 +1,6 @@
 About *Lucilia cuprina*
 -----------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Lucilia_cuprina)
-
 The species ***Lucilia cuprina***, formerly named *Phaenicia cuprina*,
 is more commonly known as the **Australian sheep blowfly**. It belongs
 to the blow-fly family Calliphoridae, and while some authorities combine
