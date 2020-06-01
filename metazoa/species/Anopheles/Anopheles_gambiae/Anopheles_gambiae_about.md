@@ -56,8 +56,6 @@ phenotypic plasticity and opportunism in resting locations.
 An. gambiae is considered to be one of the most efficient vectors of
 malaria in the world.
 
-</div>
-
 This text was modified from Sinka ME et al. (2010) [The dominant
 Anopheles vectors of human malaria in Africa, Europe and the Middle
 East: occurrence data, distribution maps and bionomic
