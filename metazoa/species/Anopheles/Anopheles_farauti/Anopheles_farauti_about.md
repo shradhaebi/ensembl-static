@@ -7,7 +7,7 @@ About *Anopheles farauti*
 Moluccas (Indonesia) and extend eastward through Papua New Guinea (the
 Admiralty Islands and the Bismarck Archipelago), the Solomon Islands,
 the New Hebrides (Vanuatu) and Australia. *Anopheles farauti* *sensu
-stricto* (formerl*y A. farauti 1*) is distributed in Papua New Guinea
+stricto* (formerly *A. farauti 1*) is distributed in Papua New Guinea
 and Australia where it is and it was a malaria vector, respectively.
 
 ### Habitats
@@ -25,9 +25,9 @@ major factor in species distribution within this Complex. For example,
 *An. hinesorum* has far less tolerance for salinity than *An. farauti*
 and appears restricted to inland freshwater locations. However, the
 degree of tolerance may be variable within a species range. *An.
-faraut*i *s.s.* is predominately found within 1 km of coastal areas and
+farauti s.s.* is predominately found within 1 km of coastal areas and
 is replaced by other members in the Complex further inland. An. irenicus
-shares the high salt-tolerance capabilities of *An. farauti* *s.s*.
+shares the high salt-tolerance capabilities of *An. farauti s.s*.
 however, it is only found in freshwater habitats. Larvae of *An. farauti
 s.l*. are commonly found in natural, rain-fed temporary pools to larger
 semi-permanent to permanent bodies of ground water, usually with some

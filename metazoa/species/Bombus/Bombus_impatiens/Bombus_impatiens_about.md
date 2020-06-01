@@ -1,8 +1,6 @@
 About *Bombus impatiens*
 ------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Common_eastern_bumblebee)
-
 The **common eastern bumblebee** (*Bombus impatiens*) is the most
 commonly encountered bumblebee across much of eastern North America.
 They can be found in the Eastern Temperate Forest region of the eastern

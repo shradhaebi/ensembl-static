@@ -1,8 +1,6 @@
 About *Thelohanellus kitauei*
 -----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Myxosporea)
-
 *Thelohanellus kitauei* is a myxosporean, a highly derived class of
 Cnidaria \[1\]. The Myxosporea are a class of microscopic parasites,
 belonging to the Myxozoa. They have a complex life cycle which comprises

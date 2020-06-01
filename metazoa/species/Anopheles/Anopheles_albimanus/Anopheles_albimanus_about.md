@@ -46,47 +46,5 @@ Originally isolated from El Salvador, isofemale subcolony selection was
 performed prior to genome sequencing. For more details [click
 here.](http://www.mr4.org/MR4ReagentsSearch/livingMosquitoes/MRA-126.aspx)
 
-::: {#content}
-::: {#content-inner}
-::: {#block-system-main}
-<div>
-
-<div>
-
-<div>
-
-<div>
-
-<div>
-
-<div>
-
-<div>
-
-<div>
-
-<div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-:::
-:::
-:::
-
 Source:
 [VectorBase](https://www.vectorbase.org/organisms/anopheles-albimanus "Tendency to inhabit/rest in outdoor areas.")

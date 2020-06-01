@@ -1,8 +1,6 @@
 About *Mayetiola destructor*
 ----------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Hessian_fly)
-
 The **Hessian fly** or **barley midge**, *Mayetiola destructor*, is a
 species of fly that is a significant pest of cereal crops including
 wheat, barley and rye. Though a native of Asia it was transported into

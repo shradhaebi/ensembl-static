@@ -8,9 +8,6 @@ transmitted by several members of the genus *Leptotrombidium*
 (/ˌlɛptoʊtrɒmˈbɪdiəm/) (Family Trombiculidae) in south eastern Asia,
 Australia and the pacific islands (Mullen and Durden, 2002).
 
-::: {.field .field-name-body .field-type-text-with-summary .field-label-hidden style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); margin: 0px 0px 30px; padding: 0px;"}
-::: {.field-items style="margin: 0px; padding: 0px;"}
-::: {.field-item .even style="margin: 0px; padding: 0px;"}
 The life cycle of the mite includes 7 stages: egg, deutovum (or
 prelarva), larva, nymphochrysalis, nymph, imagochrysalis and adult. Of
 these stages only the larva (known as \'chiggers\') is an ectoparasitic
@@ -24,9 +21,6 @@ Giga Science,
 Larvae ingest tissue exudates via a feeding tube (\'stylostome\') that
 is formed at the attachemnet site, but which is extraneous to the larval
 mouthparts.
-:::
-:::
-:::
 
 Strain UoL-UT
 -------------

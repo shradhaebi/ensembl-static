@@ -1,8 +1,6 @@
 About *Lepeophtheirus salmonis*
 -------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Salmon_louse)
-
 The **salmon louse**, *Lepeophtheirus salmonis*, is a species of copepod
 in the genus *Lepeophtheirus*. It is a sea louse, a parasite living
 mostly on salmon, particularly on Pacific salmon, but is also sometimes

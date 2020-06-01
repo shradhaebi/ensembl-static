@@ -9,8 +9,8 @@ protein features have been computed. The IDs of genes, transcripts and
 translations must be unique across species in Ensembl Genomes (to allow
 cross-species comparisons), which means that the JGI IDs cannot be used
 without slight modifications. The JGI transcript and protein IDs have
-been given the prefixes \'LotgiT\' and \'LotgiP\', respectively. Genes
-have been renamed to have the format \'LotgiG*xxx*\', where *xxx* is the
+been given the prefixes 'LotgiT' and 'LotgiP', respectively. Genes
+have been renamed to have the format 'LotgiG*xxx*', where *xxx* is the
 original JGI transcript ID; the original JGI gene ID is stored as a
 cross-reference. Searching on the original JGI IDs will return the
 expected result (and potentially results from other species).

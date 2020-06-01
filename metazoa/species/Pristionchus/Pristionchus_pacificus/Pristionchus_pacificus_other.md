@@ -8,4 +8,4 @@ pacificus* genome and can be viewed on the genome browser:
     (FlyBase), *S. cerevisae* (SGD), and selected other nematodes
     (WormBase)
 -   All other reviewed protein sequences from UniProtKB
--   *P. pacificus*mRNAs and ESTs
+-   *P. pacificus* mRNAs and ESTs
