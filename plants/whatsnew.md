@@ -1,11 +1,6 @@
 
 - New genomes
-    - [_Arabis alpina_](/Arabis_alpina) : assembly from ENA ([GCA_000733195.1](http://www.ebi.ac.uk/ena/data/view/GCA_000733195.1)) and annotation from TRANSNET
-	- [_Camelina sativa_](/Camelina sativa) : assembly from ENA ([GCA_000633955.1](http://www.ebi.ac.uk/ena/data/view/GCA_000633955.1)) and annotation from [camelinadb](http://camelinadb.ca/downloads.html)
-	- [_Cannabis sativa_ female](/Cannabis_sativa_female) : assembly from ENA ([GCA_900626175.1](http://www.ebi.ac.uk/ena/data/view/GCA_900626175.1)) and annotation from [cannabisgenome](http://cannabisgenome.org)
-	- [Watermelon](/Citrullus_lanatus) (_Citrullus lanatus_) : assembly from ENA ([GCA_000238415.2](http://www.ebi.ac.uk/ena/data/view/GCA_000238415.2)) and annotation from cucurbitgenomics
-	- [Wild olive tree](/Olea_europaea_sylvestris) (_Olea europaea sylvestris_) : assembly from ENA ([GCA_002742605.1](https://www.ebi.ac.uk/ena/browser/view/GCA_002742605.1)) and annotation from [GDB](http://bioinformatics.psb.ugent.be)
-	- [Pistachio](/Pistacia_vera) (_Pistacia vera_) : assembly from ENA ([GCA_008641045.1](https://www.ebi.ac.uk/ena/data/view/GCA_008641045.1)) and annotation from [BIGD](https://bigd.big.ac.cn)
-	- [Almond](/Prunus_dulcis) (_Prunus dulcis_) : assembly and annotation from ENA ([GCA_902201215.1](https://www.ebi.ac.uk/ena/browser/view/GCA_902201215.1))
-- Updated data
-	- We now support _Theobroma cacao_ cultivars [Matina](/Theobroma_cacao_matina) and [Criollo](/Theobroma_cacao_criollo)
+    - [_Arabis alpina_](/Arabis_alpina) : assembly from ENA [GCA_000733195.1](http://www.ebi.ac.uk/ena/data/view/GCA_000733195.1) and annotation from TRANSNET
+	- [_Camelina sativa_](/Camelina_sativa) : assembly from ENA [GCA_000633955.1](http://www.ebi.ac.uk/ena/data/view/GCA_000633955.1) and annotation from [camelinadb](http://camelinadb.ca/downloads.html)
+	- [_Cannabis sativa_ female](/Cannabis_sativa_female) : assembly from ENA [GCA_900626175.1](http://www.ebi.ac.uk/ena/data/view/GCA_900626175.1) and annotation from [cannabisgenome](http://cannabisgenome.org)
+	- [Watermelon](/Citrullus_lanatus) (_Citrullus lanatus_) : assembly from ENA [GCA_000238415.2](http://www.ebi.ac.uk/ena/data/view/GCA_000238415.2) and annotation from cucurbitgenomics
