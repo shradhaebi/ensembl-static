@@ -13,3 +13,4 @@
 
 - Updated genomes
 	- Added sunflower variation data
+	- Renamed almond gene names
