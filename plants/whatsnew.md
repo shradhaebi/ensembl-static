@@ -10,3 +10,6 @@
 	- [Green foxtail](/Setaria_viridis) (_Setaria viridis_) : assembly and annotation from ENA [GCA_005286985.1](http://www.ebi.ac.uk/ena/data/view/GCA_005286985.1)
 	- [Barley cultivar Golden Promise](/Hordeum_vulgare/Info/Strains?db=core)  
 	- [UK wheat cultivars](/Triticum_aestivum/Info/Strains?db=core) : Cadenza, Claire, Paragon, Robigus, Weebill
+
+- Updated genomes
+	- Added sunflower variation data
