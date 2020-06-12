@@ -48,3 +48,9 @@
     platform](http://dx.doi.org/doi:10.1104/pp.15.01667).\
     Philippa Borrill, Ricardo Ramirez-Gonzalez, and Cristobal
     Uauy. 2016. Plant Physiology .
+
+10. [Rapid identification of homozygosity and site of wild relative introgressions in wheat through 
+    chromosome‐specific KASP genotyping assays](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13241).\
+    Surbhi Grewal, Stella Hubbart‐Edwards, Caiyun Yang, Urmila Devi, Lauren Baker, Jack Heath, Stephen Ashling, Duncan Scholefield, 
+    Caroline Howells, Jermaine Yarde, Peter Isaac, Ian P. King and Julie King.
+    2016. Plant Biotechnology Journal. 18:743–755.
