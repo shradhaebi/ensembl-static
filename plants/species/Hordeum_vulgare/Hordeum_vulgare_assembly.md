@@ -1,7 +1,7 @@
 ### Assembly
 
-The barley genome assembly presented here was produced by the
-[International Barley Genome Sequencing
+This is the assembly of cultivar Morex, a six-row malting variety, 
+produced by the [International Barley Genome Sequencing
 Consortium](http://barleygenome.org/ "IBSC homepage") (IBSC) using a
 [hierarchical approach](http://europepmc.org/abstract/MED/28447635).
 Initially multiplexed short read BAC by BAC contig assemblies (N50: 79

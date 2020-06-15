@@ -1,3 +1,5 @@
+### Assembly
+
 The Svevo genome sequence was assembled de novo using protocols
 previously used for wild Emmer Wheat \[2\]. After sequencing and
 assembly, the scaffolds (length of the shortest contig needed to cover

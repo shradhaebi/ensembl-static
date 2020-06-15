@@ -1,3 +1,4 @@
+<!--
 <a href="https://trackhubregistry.org/"><img alt="The Track Hub Registry" src="/img/thr-02.png" style="float:right; height:40px; margin-left:5px; margin-right:5px; width:40px" title="The Track Hub Registry" /></a>
-
-You can search the [Track Hub Registry](https://trackhubregistry.org/) to find public RNA-Seq studies aligned to plant genomes ([read more](https://www.ebi.ac.uk/fg/rnaseq/api/index.html#PerformingRNA-seqAnalysis)).
+-->
+You can search the [Track Hub Registry](https://trackhubregistry.org) to find public RNA-Seq studies aligned to plant genomes ([read more](https://www.ebi.ac.uk/fg/rnaseq/api/index.html#PerformingRNA-seqAnalysis)).
