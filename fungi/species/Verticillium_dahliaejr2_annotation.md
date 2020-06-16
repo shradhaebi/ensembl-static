@@ -10,11 +10,9 @@ and SNAP). The predicted genes were manually curated using WebApollo
 software.
 
 The set of non-coding RNA genes available comprises a set of gene models
-[annotated by the
-]{style="line-height: 19.2000007629395px;"}[[Laboratory of
-Phytopathology, Wageningen
-University](http://www.wageningenur.nl/en/Expertise-Services/Chair-groups/Plant-Sciences/Laboratory-of-Phytopathology.htm)]{style="line-height: 19.2000007629395px;"}[,
+[annotated by the [Laboratory of Phytopathology, Wageningen
+University](http://www.wageningenur.nl/en/Expertise-Services/Chair-groups/Plant-Sciences/Laboratory-of-Phytopathology.htm),
 plus an additional set annotated using tRNAScan-SE (Lowe, T.M. and Eddy,
 S.R. 1997), RFAM (Griffiths-Jones et al 2005), and RNAmmer (Lagesen
 K.,et al 2007); additional analysis tools have also been
-applied.]{style="line-height: 1.5em;"}
+applied.

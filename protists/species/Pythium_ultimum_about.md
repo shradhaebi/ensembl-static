@@ -1,10 +1,10 @@
-About the *Pythium ultimum* genome {#about-the-pythium-ultimum-genome .first}
+About the *Pythium ultimum* genome 
 ----------------------------------
 
 *Pythium ultimum* is a ubiquitous oomycete plant pathogen responsible
 for a variety of diseases on a broad range of crop and ornamental
 species. Analysis of the *Pythium ultimum* genome sequence suggests that
-not all oomycete plant pathogens contain a similar \'toolkit\' for
+not all oomycete plant pathogens contain a similar 'toolkit' for
 survival and pathogenesis. *Pythium ultimum* has a distinct effector
 repertoire compared to Phytophthora spp. The repertoire of metabolic
 genes within the *Pythium ultimum* genome reflects its pathogenic

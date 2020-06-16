@@ -1,4 +1,3 @@
-[[Ab-initio gene prediction supported by genomic alignments of proteins
+Ab-initio gene prediction supported by genomic alignments of proteins
 from other species and RNAseq reads from multiple samples resulted in
 prediction of 12152 transcripts in 12008 genes.
-]{style="font-family:arial,helvetica,sans-serif"}]{style="font-size:14px"}

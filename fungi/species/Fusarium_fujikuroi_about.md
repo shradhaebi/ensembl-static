@@ -1,2 +1,1 @@
-The fungal pathogen *Fusarium fujikuroi* causes [*bakanae* in
-rice.]{style="line-height: 1.5em;"}
+The fungal pathogen *Fusarium fujikuroi* causes *bakanae* in rice.

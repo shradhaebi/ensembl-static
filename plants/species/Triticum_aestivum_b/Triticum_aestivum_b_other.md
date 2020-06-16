@@ -1,6 +1,3 @@
-[Analysis of the bread wheat genome using comparative whole genome shotgun sequencing]{style="font-size: 13.0pt; font-family: Helvetica; mso-fareast-font-family: 'ＭＳ 明朝'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: Helvetica; color: #434343; mso-ansi-language: EN-US; mso-fareast-language: EN-US;" lang="EN-US" lang="EN-US"}
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 As part of the wheat genome analysis, we have aligned a set of
 identified *Triticum aestivum* gene sequences and homoeologous SNPs
 (SNPs between the component A, B, and D genomes of wheat) against the

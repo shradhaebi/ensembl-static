@@ -1,6 +1,3 @@
-[IWGSC Chromosome survey sequence]{style="font-size: 13.0pt; font-family: Helvetica; mso-fareast-font-family: 'ＭＳ 明朝'; mso-fareast-theme-font: minor-fareast; mso-bidi-font-family: Helvetica; color: #434343; mso-ansi-language: EN-US; mso-fareast-language: EN-US;" lang="EN-US" lang="EN-US"}
-=====================================================================================================================================================================================================================================================================================================
-
 Assemblies
 ----------
 

@@ -1,4 +1,4 @@
-[Annotation]{style="font-size: 15px; font-weight: bold;"}
+Annotation
 ---------------------------------------------------------
 
 The protein coding genes in this site are a direct import of annotation

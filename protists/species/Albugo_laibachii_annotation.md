@@ -1,4 +1,4 @@
-[Annotation]{style="font-size: 15px; font-weight: bold;"} {#annotation style="text-align: left;"}
+Annotation
 ---------------------------------------------------------
 
 Annotation for *Albugo laibachii* genomes has been derived from

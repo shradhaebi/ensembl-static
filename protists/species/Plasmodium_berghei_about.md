@@ -1,4 +1,4 @@
-[About the *Plasmodium berghei* genome]{style="font-size: 15px; font-weight: bold;"}
+About the *Plasmodium berghei* genome
 ------------------------------------------------------------------------------------
 
 *Plasmodium berghei* is one of four malarial parasites that infect

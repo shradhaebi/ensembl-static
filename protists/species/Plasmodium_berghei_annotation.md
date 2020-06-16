@@ -9,5 +9,3 @@ PlasmoDB.org hosts genomic and proteomic data (and more) for different
 species of the parasite eukaryote *Plasmodium*. It brings together data
 provided by numerous laboratories worldwide.
 
-::: {style="padding-left: 10px;"}
-:::

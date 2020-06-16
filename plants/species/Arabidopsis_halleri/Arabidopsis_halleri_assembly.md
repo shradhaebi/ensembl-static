@@ -6,14 +6,3 @@ long insert mate pair libraries (ranging from 3 kb to 38 kb). The
 assembly was subsequently improved based on synteny with *Arabidopsis
 lyrata* assembly.
 
-::: {.gwt-HTML style="display: inline; overflow-wrap: break-word;"}
-:::
-
-::: {.gwt-HTML style="display: inline; overflow-wrap: break-word;"}
-:::
-
-::: {.gwt-HTML style="display: inline; overflow-wrap: break-word;"}
-:::
-
-::: {style="position: relative; display: inline-block; vertical-align: top; float: left; width: 25%;"}
-:::
