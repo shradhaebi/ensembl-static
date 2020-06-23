@@ -19,4 +19,4 @@ dicoccoides*) which hybridized again with *[Aegilops
 tauschii](/Aegilops_tauschii "Aegilops tauschii in Ensembl Plants")*
 (the D-genome donor) to produce modern bread wheat.
 
-Guidelines for gene nomenclature in wheat can be found in the 2013 edition of the Wheat Gene Catalogue available in GrainGenes (https://wheat.pw.usda.gov/GG3/wgc).
+Guidelines for gene nomenclature in wheat can be found in the 2013 edition of the Wheat Gene Catalogue available in [GrainGenes](https://wheat.pw.usda.gov/GG3/wgc).
