@@ -1,7 +1,7 @@
 ### Variation
 
 Two sources of variation data from NCBI
-[dbSNP](www.ncbi.nlm.nih.gov/projects/SNP) has been mapped onto the
+[dbSNP](http://www.ncbi.nlm.nih.gov/projects/SNP) has been mapped onto the
 genome assembly:
 
 1.  SNPs called from the comparison of *Oryza sativa* Indica and *Oryza

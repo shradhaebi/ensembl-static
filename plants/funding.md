@@ -1,6 +1,6 @@
 ### Funding
 
-Ensembl Plants datasets are constructed in a direct collaboration with the [Gramene](http://www.gramene.org) resource, funded by the United States [National Science Foundation](http://www.nsf.gov/) [award 1127112](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1127112). Read [more](http://ensemblgenomes.org/info/about/gramene) about our collaboration with Gramene.
+Ensembl Plants datasets are constructed in a direct collaboration with the [Gramene](http://www.gramene.org) resource, funded by the United States [National Science Foundation](http://www.nsf.gov/) [award 1127112](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1127112). Read [more](/info/about/collaborations/gramene.html) about our collaboration with Gramene.
 
 <p class="rtecenter"><a href="http://www.gramene.org/"><img alt="Gramene logo" src="/img/gramene_logo.png" style="height:60px; width:150px" /></a></p>
 
