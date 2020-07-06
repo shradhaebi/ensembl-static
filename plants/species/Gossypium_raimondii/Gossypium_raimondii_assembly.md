@@ -11,3 +11,4 @@ libraries. Cotton genetic and physical maps, and *Vitis vinifera * and
 scaffolds to form the 13 chromosomes. The remaining scaffolds were
 screened for contamination to produce a final assembly of 1,033
 scaffolds (19,735 contigs) and 761.4 Mbp \[1\]\[2\].
+This assembly corresponds to ENA Release 133, Version 6 (20-JUN-2017).
