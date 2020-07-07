@@ -2,4 +2,4 @@
 
 * PMC5100847
 
-Picture credit: PMC5100847 
+Picture credit: https://www.wikiwand.com/en/Quercus_lobata 
