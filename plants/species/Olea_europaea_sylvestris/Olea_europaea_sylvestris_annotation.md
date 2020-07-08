@@ -13,7 +13,7 @@ data. A total 31,245 genes were located on the anchored chromosomes.
 
 \
 Repeats were annotated with the [Ensembl Genomes repeat feature
-pipeline](http://ensemblgenomes.org/info/data/repeat_features). There
+pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
 are: 1619023 Low complexity (Dust) features, covering 160 Mb (14.0% of
 the genome); 1281455 RepeatMasker features (with the REdat library),
 covering 261 Mb (22.9% of the genome); 8004 RepeatMasker features (with

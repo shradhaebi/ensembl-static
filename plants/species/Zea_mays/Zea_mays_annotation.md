@@ -43,7 +43,7 @@ genes mapped from [miRBase](http://europepmc.org/abstract/MED/24275495).
 #### Repeats
 
 Repeats were annotated with the [Ensembl Genomes repeat feature
-pipeline](http://ensemblgenomes.org/info/data/repeat_features). There
+pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
 are: 1,335,693 Low complexity (Dust) features, covering 56 Mb (2.6% of
 the genome); 787,462 RepeatMasker features (with the [reDAT
 library](http://pgsb.helmholtz-muenchen.de/plant/recat/)), covering

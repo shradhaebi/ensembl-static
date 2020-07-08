@@ -11,7 +11,7 @@ complete genes.
 
 \
 Repeats were annotated with the [Ensembl Genomes repeat
-feature](http://ensemblgenomes.org/info/data/repeat_features) pipeline.
+feature](http://plants.ensembl.org/info/genome/annotation/repeat_features.html) pipeline.
 There are: 3,066,463 Low complexity (Dust) features, covering 85 Mb
 (3.0% of the genome); 1,621,792 RepeatMasker features (with the REdat),
 covering 1,257 Mb (43.3% of the genome); 35,078 RepeatMasker features

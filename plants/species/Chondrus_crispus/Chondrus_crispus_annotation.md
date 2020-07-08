@@ -1,14 +1,12 @@
 ### Annotation
 
-The annotation presented is [derived from annotation submitted to
-INSDC](http://ensemblgenomes.org/info/data/insdc_annotation) with the
-assembly accession
+The annotation presented is derived from annotation submitted to
+[INSDC](http://plants.ensembl.org/info/genome/annotation/insdc_annotation/index.html) with the assembly accession
 [GCA\_000350225.2](http://www.ebi.ac.uk/ena/data/view/GCA_000350225.2),
-with additional non-coding genes derived from
-[Rfam](http://rfam.xfam.org/).
+with additional non-coding genes derived from [Rfam](http://rfam.xfam.org/).
 
 Repeats were annotated with the [Ensembl Genomes repeat feature
-pipeline](http://ensemblgenomes.org/info/data/repeat_features). There
+pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
 are: 59,047 Low complexity (Dust) features, covering 3 Mb (2.4% of the
 genome); 1,027 RepeatMasker features (annotated with the [RepBase
 library](http://www.girinst.org/repbase/)), covering 0 Mb (0.1% of the
