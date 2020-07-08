@@ -6,7 +6,7 @@ protein-coding genes transcribing 34,039 transcripts (1.22 transcripts
 per gene) and encoding for 32,559 unique protein products were produced.
 
 Repeats were annotated with the [Ensembl Genomes repeat feature
-pipeline](http://ensemblgenomes.org/info/data/repeat_features). There
+pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
 are: 429457 Low complexity (Dust) features, covering 17 Mb (7.3% of the
 genome); 74964 Repeats (ENA) features, covering 107 Mb (47.2% of the
 genome); 70178 RepeatMasker features (with the REdat library), covering

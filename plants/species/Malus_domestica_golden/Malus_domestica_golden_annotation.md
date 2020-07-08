@@ -10,7 +10,7 @@ complete BUSCOs v2. Genes in unplaced contigs (Chr0) have not been
 imported.
 
 Repeats were annotated with the [Ensembl Genomes repeat feature
-pipeline](http://ensemblgenomes.org/info/data/repeat_features). There
+pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There
 are: 982556 Low complexity (Dust) features, covering 109 Mb (15.5% of
 the genome); 218553 RepeatMasker features (with the REdat library),
 covering 87 Mb (12.4% of the genome); 458059 RepeatMasker features (with
