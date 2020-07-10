@@ -8,14 +8,11 @@ assemblies from RNAseq reads were made using PERTRAN. 120,929 transcript
 assemblies were constructed using PASA from 56,638 D5 Sanger ESTs, 2.5M
 D5 454 RNAseq reads and all RNA-Seq transcript assemblies above. 133,073
 transcript assemblies were constructed using PASA from 296,214 TET
-Sanger ESTs and about 2.9M TET 454 reads. The larger number of
-transcript assemblies from fewer TET sequences is due to fragment nature
-of the assemblies. Loci were determined by transcript assembly
-alignments and/or EXONERATE alignments of proteins from arabi
-(Arabidopsis thaliana), cacao, rice, soybean, grape and poplar proteins
-to repeat-soft-masked *G. raimondii* genome using RepeatMasker with up
-to 2 kb extension on both ends unless extending into another locus on
-the same strand.
+Sanger ESTs and about 2.9M TET 454 reads. 
+Loci were determined by transcript assembly
+alignments and/or EXONERATE alignments of proteins from *Arabidopsis thaliana*, 
+cacao, rice, soybean, grape and poplar proteins
+to the soft-masked genome with up to 2 kb extension on both ends.
 
 Gene models were predicted by homology-based predictors, FGENESH+,
 FGENESH\_EST (similar to FGENESH+, EST as splice site and intron input
@@ -37,5 +34,7 @@ CDS overlapping with repeats is less than 20%. For gene models whose CDS
 overlaps with repeats for more that 20%, its Cscore must be at least 0.9
 and homology coverage at least 70% to be selected. The selected gene
 models were subject to Pfam analysis and gene models whose protein is
-more than 30% in Pfam TE domains were removed. The final gene set has
-37,505 protein coding genes and 77,267 protein coding transcripts.
+more than 30% in Pfam TE domains were removed. 
+This gene annotation corresponds to ENA Release 133, Version 6 (20-JUN-2017).
+
+Repeats were annotated with the [Ensembl Genomes repeat feature pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There are: 1,632,582 Low complexity (Dust) features, covering 86 Mb (11.4% of the genome); 551,323 RepeatMasker features (with the nrTEplants library), covering 423 Mb (55.5% of the genome); 474,340 Tandem repeats (TRF) features, covering 44 Mb (5.8% of the genome).

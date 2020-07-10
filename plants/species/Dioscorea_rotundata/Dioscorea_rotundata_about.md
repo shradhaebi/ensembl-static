@@ -10,6 +10,6 @@ tropical and subtropical regions of the world. The entire Genus is
 characterised by the occurrence of separate male and female plants
 (dioecy), a rare trait in angiosperms that has limited efficient
 breeding, and *D. rotundata* can be either diploid or triploid, with a
-haploid chromosome number of 20.. The reference for *D. rotundata* comes
+haploid chromosome number of 20. The reference for *D. rotundata* comes
 from a diploid individual of unknown sex with an assembled genome size
-of 594 Mb.
+of 579 Mb.
