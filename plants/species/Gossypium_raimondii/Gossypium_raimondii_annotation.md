@@ -37,4 +37,4 @@ models were subject to Pfam analysis and gene models whose protein is
 more than 30% in Pfam TE domains were removed. 
 This gene annotation corresponds to ENA Release 133, Version 6 (20-JUN-2017).
 
-Repeats were annotated with the <a href='http://plants.ensembl.org/info/genome/annotation/repeat_features.html'>Ensembl Genomes repeat feature pipeline</a>. There are: 1,632,582 Low complexity (Dust) features, covering 86 Mb (11.4% of the genome); 551,323 RepeatMasker features (with the nrTEplants library), covering 423 Mb (55.5% of the genome); 474,340 Tandem repeats (TRF) features, covering 44 Mb (5.8% of the genome).
+Repeats were annotated with the [Ensembl Genomes repeat feature pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There are: 1,632,582 Low complexity (Dust) features, covering 86 Mb (11.4% of the genome); 551,323 RepeatMasker features (with the nrTEplants library), covering 423 Mb (55.5% of the genome); 474,340 Tandem repeats (TRF) features, covering 44 Mb (5.8% of the genome).
