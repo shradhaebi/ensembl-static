@@ -6,8 +6,4 @@
     Matsuzaki M, Misumi O, Shin-I T, Maruyama S, Takahara M, Miyagishima
     SY, Mori T, Nishida K, Yagisawa F, Nishida K et al. 2004. Nature.
     428:653-657.
-2.  Image credit: NEON (Own work) \[CC-BY-SA-3.0
-    ([http://creativecommons.org/licenses/by-sa/3.0](http://www.ensemblgenomes.org/export/ensembl-species/plants))
-    or CC-BY-SA-3.0
-    ([http://creativecommons.org/licenses/by-sa/3.0](http://www.ensemblgenomes.org/export/ensembl-species/plants))\],
-    via Wikimedia Commons.\
+2.  Image credit: NEON (Own work) [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0)
