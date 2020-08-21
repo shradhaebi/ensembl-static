@@ -66,7 +66,7 @@ unless ($version && $eg_version) {
 my @divisions = $division ? ($division) : qw(bacteria fungi metazoa plants protists);
 
 ## Set destination - defaults to local checkout(s) in same directory as this repo
-my ($OUT_ROOT, $OUT_DIR, $division_string);
+my ($OUT_ROOT, $OUT_DIR);
 
 if ($site) {
   if ($site !~ /staging|test|live|debug/) {
@@ -78,20 +78,13 @@ if ($site) {
     @divisions = ('plants');
   }
   $OUT_ROOT = "/nfs/public/release/ensweb/$site";
-  $division_string = join('|', @divisions)."/www_$version";
 }
 else {
   if (!$division) {
     die "At the moment you can only make a local copy of content for one division at a time. Please specify a division on the command line.\n";
   }
   ($OUT_ROOT = $SCRIPT_ROOT) =~ s#/ensembl-static##;
-  $division_string = "eg-web-$division";
 }
-
-print "Copying files into $OUT_ROOT/$division_string\nIs this correct? [y/n]\n\n";
-
-my $response = <STDIN>;
-die "Aborting!\n\n" unless ($response =~ /^y/i); 
 
 ## TODO - check that ensembl-static is on same branch as desired eg-version 
 
@@ -133,6 +126,11 @@ foreach my $div (@divisions) {
   }
 
   $div_out_dir .= "/eg-web-$div/";
+
+  print "Copying files into $div_out_dir\nIs this correct? [y/n]\n\n";
+
+  my $response = <STDIN>;
+  die "Aborting!\n\n" unless ($response =~ /^y/i); 
 
   ## The SSI directory is not present in Git, so create it
   my $out_path = $div_out_dir.$home_text_out;
