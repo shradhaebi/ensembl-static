@@ -118,15 +118,21 @@ foreach my $div (@divisions) {
   }
 
   my $div_in_dir     = $SCRIPT_ROOT.'/'.$div;
-  my $div_out_dir    = $site ? sprintf('%s/%s/www_%s', $OUT_ROOT, $div, $version) : $OUT_ROOT;
-
-  ## We only have one debug site for all divisions
-  if ($site eq 'debug') {
-    $div_out_dir .= "/eg-all/";
+  my $div_out_dir;
+  if ($site) {
+    if ($site eq 'debug') {
+      ## We only have one debug site for all divisions
+      $div_out_dir = sprintf('%s/eg-all/www_%s', $OUT_ROOT, $version);
+    }
+    else {
+      $div_out_dir = sprintf('%s/%s/www_%s', $OUT_ROOT, $div, $version);
+    }
   }
   else {
-    $div_out_dir .= "/eg-web-$div/";
+    $div_out_dir = $OUT_ROOT;
   }
+
+  $div_out_dir .= "/eg-web-$div/";
 
   ## The SSI directory is not present in Git, so create it
   my $out_path = $div_out_dir.$home_text_out;
