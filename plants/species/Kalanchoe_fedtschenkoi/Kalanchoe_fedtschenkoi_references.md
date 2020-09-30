@@ -2,4 +2,4 @@
 
 * PMC5711932
 
-Picture credit: PMC5711932 
+Picture credit: Yang et al (see reference, above) 
