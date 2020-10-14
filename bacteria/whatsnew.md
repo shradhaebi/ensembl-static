@@ -1,6 +1,3 @@
-
-## What's New in Release 49
-
 Release 49 of Ensembl Bacteria had a major update of  all of its species. All the bacterial genomes were freshly reloaded from ENA. To help with scalability,we filtered redundant proteomes following UniProt criteria, reducing our total number of bacterial genomes to 31,332. See more details about this update in our [blog](https://www.ensembl.info/2020/09/21/ensembl-bacteria-updates/). Ensembl Bacteria has an updated pan-taxonomic compara (which includes key bacterial species).
 
 - New and updated genomes
