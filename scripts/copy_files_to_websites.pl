@@ -87,6 +87,15 @@ else {
   ($OUT_ROOT = $SCRIPT_ROOT) =~ s#/ensembl-static##;
 }
 
+## General warning, as this script is unavoidably noisy!
+
+print "\n\n##################################################\n";
+print "\n";
+print "\nIMPORTANT NOTE: Ignore any 'cannot stat' or 'omitting directory' messages\n";
+print "\nThese are to be expected, as the input is structured differently from the output.\n";
+print "\n";
+print "\n\n###################################################\n";
+
 ## Check that ensembl-static is on same branch as desired eg-version 
 ## and pull any updates from github
 my $branch = $site eq 'staging' ? 'master' : sprintf('release/eg/%s', $eg_version);
