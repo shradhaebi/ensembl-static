@@ -86,7 +86,18 @@ else {
   ($OUT_ROOT = $SCRIPT_ROOT) =~ s#/ensembl-static##;
 }
 
-## TODO - check that ensembl-static is on same branch as desired eg-version 
+## Check that ensembl-static is on same branch as desired eg-version 
+## and pull any updates from github
+my $branch = $site eq 'staging' ? 'master' : sprintf('release/eg/%s', $eg_version);
+chdir $SCRIPT_ROOT;
+my $cmd = "git checkout $branch && git pull";
+if ($dryrun) {
+  print "\n Dryrun: Would update this repo using '$cmd'...\n\n";
+}
+else {
+  print "\n Updating static repo: '$cmd'...\n\n";
+}
+system($cmd) unless $dryrun;
 
 ## Define input directories for each type of content
 my $home_text_in  = '';
