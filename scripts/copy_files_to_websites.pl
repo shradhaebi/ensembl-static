@@ -37,7 +37,7 @@ copy_files_to_websites.pl --release=101-48 --division=plants --species-only
 
 =cut
 
-my ($SCRIPT_ROOT, $help, $verbose, $dryrun, $version, $release, $site, $division, $home_only, $species_only);
+my ($SCRIPT_ROOT, $help, $verbose, $dryrun, $auto, $version, $release, $site, $division, $home_only, $species_only);
 
 BEGIN{
   &GetOptions(
