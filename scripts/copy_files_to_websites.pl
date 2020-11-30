@@ -44,6 +44,7 @@ BEGIN{
               'help|h'          => \$help,
               'verbose|v'       => \$verbose,
               'dryrun|d'        => \$dryrun,
+              'auto|a'          => \$auto,
               'release|r=s'     => \$release,
               'site:s'          => \$site,
               'division|div:s'  => \$division,
@@ -138,10 +139,12 @@ foreach my $div (@divisions) {
 
   $div_out_dir .= "/eg-web-$div/";
 
-  print "Copying files into $div_out_dir\nIs this correct? [y/n]\n\n";
+  unless ($auto) {
+    print "Copying files into $div_out_dir\nIs this correct? [y/n]\n\n";
 
-  my $response = <STDIN>;
-  die "Aborting!\n\n" unless ($response =~ /^y/i); 
+    my $response = <STDIN>;
+    die "Aborting!\n\n" unless ($response =~ /^y/i); 
+  }
 
   ## The SSI directory is not present in Git, so create it
   my $out_path = $div_out_dir.$home_text_out;
