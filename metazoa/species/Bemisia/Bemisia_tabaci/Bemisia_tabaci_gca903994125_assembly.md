@@ -2,6 +2,8 @@
 ------------------------
 The *Bemisia tabaci* SSA2 genome was produced by the genomics consortium of the [African Cassava Whitefly Project](http://www.cassavawhitefly.org), funded by the Bill & Melinda Gates Foundation (Grant Number OPP1058938). 
 
+<p class="rtecenter"><a href="http://www.cassavawhitefly.org"><img src="/img/ACWP_logo_bemisia_tabaci.gif" alt="ACWP logo" style="width: 365px; height: 91px;" /></a></p>
+
 A field colony collected by [Dr Ibrahim U. Mohammed](https://scholar.google.co.uk/citations?user=tQov6toAAAAJ&hl=en) (Argungu, Kebbi State, Nigeria) was established, maintained and inbred (F6 generation) by [Dr Joachim Nwezeobi](https://www.linkedin.com/in/joachimnwezeobi/?originalSubdomain=uk) at the quarantine insectary facilities of the [Natural Resources Institute, University of Greenwich, United Kingdom](https://www.nri.org/).
 
 High-molecular weight genomic DNA was isolated from a pooled sample of F6 inbred haploid male individuals (n=3000). PacBio Sequel library construction and sequencing (8 SMRT cells) were performed by the [Centre for Genomic Research, The University of Liverpool](https://www.liverpool.ac.uk/genomic-research/) (United Kingdom).

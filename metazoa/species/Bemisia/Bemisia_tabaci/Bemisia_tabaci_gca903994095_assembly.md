@@ -2,6 +2,8 @@
 ------------------------
 The *Bemisia tabaci* Uganda 1 genome was produced by the genomics consortium of the [African Cassava Whitefly Project](http://www.cassavawhitefly.org), funded by the Bill & Melinda Gates Foundation (Grant Number OPP1058938). 
 
+<p class="rtecenter"><a href="http://www.cassavawhitefly.org"><img src="/img/ACWP_logo_bemisia_tabaci.gif" alt="ACWP logo" style="width: 365px; height: 91px;" /></a></p>
+
 A field-collected colony (Namulonge, Uganda) was established, maintained and inbred (F6 generation) by [Dr Habibu Mugerwa](https://scholar.google.com/citations?user=srDeBUgAAAAJ&hl=en) at the quarantine insectary facilities of the [Natural Resources Institute, University of Greenwich, United Kingdom](https://www.nri.org/). 
 
 High-molecular weight genomic DNA was isolated from a pooled sample of F6 inbred haploid male individuals (n=3000). PacBio Sequel library construction and sequencing (7 SMRT cells) were performed by the [Earlham Institute](https://www.earlham.ac.uk/) (Norwich, United Kingdom).
