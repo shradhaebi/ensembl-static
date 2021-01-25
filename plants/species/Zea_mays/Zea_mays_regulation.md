@@ -10,7 +10,7 @@ procedure](http://plants.ensembl.org/info/genome/dna_align/microarray_mapping.ht
 #### **DNA methylation**
 
 Genomewide patterns of DNA methylation for two maize inbred lines, B73
-and Mo17, are now displayed on the maize genome browser. Cytosine
+and Mo17, are displayed on the maize genome browser. Cytosine
 methylation in symmetric (CG and CHG, where H is A, C, or T) context is
 associated with DNA replication and histone modification. CG (65%) and
 CHG (50%) methylation is also highest in transposons. Source: Maize
