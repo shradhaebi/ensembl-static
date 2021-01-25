@@ -1,8 +1,8 @@
 About *Zea mays*
 ----------------
 
-*Zea mays* (maize) has the highest world-wide production of all grain
-crops, [yielding 875 million tonnes in 2012](http://faostat.fao.org/).
+*Zea mays* (maize, 2n=2x=20) has the highest world-wide production of all grain
+crops in [2012](http://faostat.fao.org).
 Although a food staple in many regions of the world, most is used for
 animal feed and ethanol fuel. Maize was domesticated from wild teosinte
 in Central America and its cultivation spread throughout the Americas by
@@ -14,3 +14,4 @@ haploid chromosome number of 10 ([Schnable *et al.*,
 2009](http://europepmc.org/abstract/MED/19936050)). Maize is
 distinguished from other grasses in that its genome arose from an
 ancient tetraploidy event unique to its lineage.
+This sequence corresponds to inbred line B73.
