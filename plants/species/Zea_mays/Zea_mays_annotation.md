@@ -3,7 +3,7 @@
 The gene annotations were produced with the CSHL gene pipeline developed under the [NAM project](https://nam-genomes.org). 
 In summary, it is an automated, evidence-based method combining trird-party software including Mikado, BRAKER and PASA. 
 Gene models were filtered by conservation and Maker Annotation Edit Distance (AED) score, 
-and then classified into coding and non-coding sets.
+and then classified into protein_coding and misc_non-coding sets.
 
 Gene models from version B73_RefGen_v4 have been mapped to the current Zm-B73-REFERENCE-NAM-5.0 and can be retrieved with the
 [ID History COnverter](http://plants.ensembl.org/Oryza_sativa/Tools/IDMapper)
