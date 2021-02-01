@@ -41,7 +41,7 @@ Other references:
     Chia JM, Song C, Bradbury PJ, Costich D, de Leon N, Doebley J,
     Elshire RJ, Gaut B, Geller L, Glaubitz JC et al. 2012. Nat. Genet..
     44:803-807.
-10.  [MAKER-P: a tool kit for the rapid creation, management, and quality
+10. [MAKER-P: a tool kit for the rapid creation, management, and quality
     control of plant genome
     annotations](http://europepmc.org/abstract/MED/24306534).\
     Campbell MS, Law M, Holt C, Stein JC, Moghe GD, Hufnagel DE, Lei J,
