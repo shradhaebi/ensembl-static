@@ -1,3 +1,3 @@
 ### Links
 
--	[hardwoodgenomics](https://hardwoodgenomics.org)
+-	[hardwoodgenomics](https://treegenesdb.org/org/Juglans-regia)
