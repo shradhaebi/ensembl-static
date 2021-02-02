@@ -1,19 +1,9 @@
 ### Annotation
 
-<!-- This browser is based on data from
-[Araport11](https://www.araport.org/data/araport11) gene annotation, a
-comprehensive reannotation of the TAIR10 genome, released June, 2016.
-Details of the structural and functional annotation steps to generate the Araport11
-protein-coding gene set as well as consolidation and annotation of
-non-coding RNAs are described in <https://doi.org/10.1111/tpj.13415>.
+Full-length transcripts from single-molecule real-time sequencing were used to predict 37,554 gene models, 
+with a mean gene length higher than the previous v1.0 gene annotations. Most of the new protein-coding genes (90%) 
+presents both start and stop codons, which represents a significant improvement compared to Chandler v1.0. 
+Of the 40,884 transcripts identified, 84% were multi-exonic, with 5.9 exons each, on average. 
+Also, 2,801 gene models had from 2 to 4 transcript isoforms each, with a mean length of 9,389 bp. 
 
-Repeats were annotated with the [Ensembl Genomes repeat feature
-pipeline](http://ensemblgenomes.org/info/data/repeat_features). There
-are: 429457 Low complexity (Dust) features, covering 17 Mb (7.3% of the
-genome); 74964 Repeats (ENA) features, covering 107 Mb (47.2% of the
-genome); 70178 RepeatMasker features (with the REdat library), covering
-21 Mb (9.2% of the genome); 2198 RepeatMasker features (with the RepBase
-library), covering 0 Mb (0.1% of the genome); 147273 Tandem repeats
-(TRF) features, covering 13 Mb (5.6% of the genome). -->
-
-
+Repeated sequences were annotated with the Repeat Detector and the [Ensembl Genomes repeat feature pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html).There are: 1215333 Low complexity (Dust) features, covering 52 Mb (9.0% of the genome); 213484 RepeatMasker features (with the nrTEplants library), covering 79 Mb (13.8% of the genome); 473692 Tandem repeats (TRF) features, covering 37 Mb (6.5% of the genome).
