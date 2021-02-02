@@ -11,3 +11,5 @@ was demonstrated by the successful mapping of 99.3% of 3,328 expressed sequence 
 and 98.5% of 86,222 unigenes assembled de novo from previously reported RNA-Seq data. In addition, 
 the large-scale assembly accuracy was assessed using five fosmid clones that were sequenced thoroughly using 
 the Sanger sequencing technology, whereby 99.6% of the clone sequences, on average, were identical to the assembly.
+
+There final assembly comprises 16 linkage groups for 13 chromosomes.
