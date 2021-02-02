@@ -1,12 +1,9 @@
-About *Genus species*
+About *Juglans regia*
 ---------------------
 
-<!-- *Arabidopsis thaliana* is a small flowering plant that is widely used as
-a model organism in plant biology. Arabidopsis is a member of the
-mustard (Brassicaceae) family, which includes cultivated species such as
-cabbage and radish. Arabidopsis is not of major agronomic significance,
-but its small genome size and ease of cultivation offer important
-advantages for basic research in genetics and molecular biology.
-*Arabidopsis thaliana* has a genome size of \~135 Mb, and a haploid
-chromosome number of five. -->
-
+The Persian walnut (*Juglans regia L.*), a diploid species (2n=32) native to 
+the mountainous regions of Central Asia, is the major walnut species cultivated 
+for nut production and is one of the most widespread tree nut species in the world. 
+It belongs to the *Juglandaceae* family and has a genome size of 620-667 Mbp.
+The high nutritional value of *J. regia* nuts is associated with a rich array of 
+polyphenolic compounds. This genome sequence was obtained from the cultivar Chandler. 
