@@ -12,4 +12,4 @@
 	- moss _Physcomitrella patens_ renamed to [_Physcomitrium patens_](/Physcomitrium_patens)
 	- [cross-references](/info/genome/annotation/cross_references.html) for [_Arabidopsis_thaliana_](/Arabidopsis_thaliana) recomputed
 
-If you would like to request a new species please [email Helpdesk](http://plants.ensembl.org/Help/Contact).
+Check which features are supported on each species [here](/species.html); if you would like to request a new species please email [Helpdesk](http://plants.ensembl.org/Help/Contact).
