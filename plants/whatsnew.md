@@ -10,5 +10,6 @@
 	- [maize](/Zea_mays) updated to Zm-B73-REFERENCE-NAM-5.0 assembly and annotation in collaboration with [Gramene](http://www.gramene.org). The variation data was remapped and agpv3_gramene, agpv4_gramene and curated_genes lifter-over.
 	- [_Musa_acuminata_](/Musa_acuminata) updated to Musa_acuminata_v2 assembly and annotation from <https://banana-genome-hub.southgreen.fr>
 	- moss _Physcomitrella patens_ renamed to [_Physcomitrium patens_](/Physcomitrium_patens)
+	- [cross-references](/info/genome/annotation/cross_references.html] for [_Arabidopsis_thaliana_](/Arabidopsis_thaliana) recomputed
 
 If you would like to request a new species please [email Helpdesk](http://plants.ensembl.org/Help/Contact).
