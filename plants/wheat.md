@@ -4,6 +4,7 @@ Ensembl Plants hosts the [latest wheat assembly](http://plants.ensembl.org/Wheat
 
 - The IWGSC RefSeq v1.1 gene annotation, with links to [wheat-expression.com](http://www.wheat-expression.com) and [KnetMiner](https://knetminer.rothamsted.ac.uk/Triticum_aestivum/)
 - [5 UK wheat cultivars](/Triticum_aestivum/Info/Strains?db=core) : Cadenza, Claire, Paragon, Robigus, Weebill
+- [14 wheat cultivars](/Triticum_aestivum/Info/Strains?db=core) from the [10+ genome project](http://www.10wheatgenomes.com)
 - Alignment of 98,270 high confidence genes from the TGACv1 annotation.
 - Axiom 35K, 820K SNP arrays from [CerealsDB](https://www.cerealsdb.uk.net/cerealgenomics/CerealsDB/index.php), including QTL links in selected cases and Linkage Disequilibrium display. See QTL example [here](https://plants.ensembl.org/Triticum_aestivum/Variation/Explore?r=5A:438266461-438267461;v=BA00617086;vdb=variation;vf=264386).
 - EMS-induced mutations from sequenced TILLING populations of Cadenza (coding regions) and Kronos (coding regions and promoters).
