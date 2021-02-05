@@ -2,7 +2,7 @@
 - New genomes
 
     - [Persian walnut](/Juglans_regia) (_Juglans_regia_) : assembly from RefSeq [GCF_001411555.2](https://www.ncbi.nlm.nih.gov/assembly/GCF_001411555.2) and annotation from [GigaDB](http://dx.doi.org/10.5524/100735) 
-	- [_Sesamum_indicum_](/Sesamum_indicum) : assembly from ENA [GCA_000512975.1](https://www.ebi.ac.uk/ena/data/view/GCA_000512975.1) and annotation from [Sinbase](http://ocri-genomics.org/Sinbase/login.htm)
+	- [_Sesamum_indicum_](/Sesamum_indicum) : assembly from ENA [GCA_000512975.1](https://www.ebi.ac.uk/ena/data/view/GCA_000512975.1) and annotation from Sinbase
 	- diploid [potato cultivar RH89-039-16](/Solanum_tuberosum/Info/Strains?db=core) 
 
 - Updated genomes
