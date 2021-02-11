@@ -1,6 +1,6 @@
 ### Main references
 
-1.	PPR/PPR266733
+1.	PPR266733
 
 2.	MED/28605751 
 
