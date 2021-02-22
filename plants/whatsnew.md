@@ -1,10 +1,15 @@
 
 - New genomes
 
-    - [Garden asparagus](/Asparagus_officinalis) (_Asparagus officinalis_) : assembly and annotation from ENA [GCA_001876935.1](http://www.ebi.ac.uk/ena/data/view/GCA_001876935.1) 
-	- [Quinoa](/Chenopodium_quinoa) (_Chenopodium quinoa_) : assembly from ENA [GCA_001683475.1](http://www.ebi.ac.uk/ena/data/view/GCA_001683475.1) and annotation from [ChenopodiumDB](https://www.cbrc.kaust.edu.sa/chenopodiumdb)
-	- [_Eucalyptus grandis_](/Eucalyptus_grandis) : assembly and annotation from ENA [GCA_000612305.1](https://www.ebi.ac.uk/ena/browser/view/GCA_000612305.1)
-	- [Opium poppy](/Papaver_somniferum) (_Papaver somniferum_) : assembly and annotation from ENA [GCA_003573695.1](https://www.ebi.ac.uk/ena/browser/view/GCA_003573695.1)
+    - [Persian walnut](/Juglans_regia) (_Juglans_regia_) : assembly from RefSeq [GCF_001411555.2](https://www.ncbi.nlm.nih.gov/assembly/GCF_001411555.2) and annotation from [GigaDB](http://dx.doi.org/10.5524/100735) 
+	- [_Sesamum_indicum_](/Sesamum_indicum) : assembly from ENA [GCA_000512975.1](https://www.ebi.ac.uk/ena/data/view/GCA_000512975.1) and annotation from Sinbase
+	- diploid [potato cultivar RH89-039-16](/Solanum_tuberosum/Info/Strains?db=core) 
+	- barley TRITEX assembly added as new [cultivar](http://staging-plants.ensembl.org/Hordeum_vulgare/Info/Strains?db=core)
 
 - Updated genomes
-	- Set up strain view for [_Panicum hallii_](/Panicum_hallii) and [cacao](/Theobroma_cacao)
+	- [maize](/Zea_mays) updated to Zm-B73-REFERENCE-NAM-5.0 assembly and annotation in collaboration with [Gramene](http://www.gramene.org). The variation data was remapped and agpv3_gramene, agpv4_gramene and curated_genes lifter-over.
+	- [_Musa_acuminata_](/Musa_acuminata) updated to Musa_acuminata_v2 assembly and annotation from <https://banana-genome-hub.southgreen.fr>
+	- moss _Physcomitrella patens_ renamed to [_Physcomitrium patens_](/Physcomitrium_patens)
+	- [cross-references](/info/genome/annotation/cross_references.html) for [_Arabidopsis_thaliana_](/Arabidopsis_thaliana) recomputed
+
+Check which features are supported on each species [here](/species.html); if you would like to request a new species please email [Helpdesk](http://plants.ensembl.org/Help/Contact).
