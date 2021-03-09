@@ -1,29 +1,48 @@
 - Updated data
-    - Updated species
-        - fixed bug with missing final stop codon from CDS (FlyBase.org originated species)
-            - Drosophila erecta
-            - Drosophila grimshawi
-            - Drosophila mojavensis
-            - Drosophila persimilis
-            - Drosophila pseudoobscura
-            - Drosophila sechellia
-            - Drosophila simulans
-            - Drosophila willistoni
-            - Drosophila yakuba
-        - updated annotations
-            - Drosophila ananassae (dana_r1.06 FB2018_04)
-            - Drosophila melanogaster (dmel_r6.32 FB2020_01)
-            - Drosophila virilis (dvir_r1.07 FB2018_05)
-    - Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search) with version 81 of [InterPro](https://www.ebi.ac.uk/interpro/)
+    - Import of fresh [#49 VectorBase build](https://vectorbase.org/vectorbase/app) (based on the [VEuPathDB](https://veupathdb.org) data). Switched to using INSDC accessions as primary seq\_region names
+        - Aedes aegypti (*LVP_AGWG*)
+        - Aedes albopictus (*Foshan*)
+        - Anopheles albimanus (*STECLA*)
+        - Anopheles arabiensis (*Dongola*)
+        - Anopheles atroparvus (*EBRO*)
+        - Anopheles christyi (*ACHKN1017*)
+        - Anopheles coluzzii (*Mali-NIH*)
+        - Anopheles coluzzii (*Ngousso*)
+        - Anopheles culicifacies (*A-37*)
+        - Anopheles darlingi (*Coari*)
+        - Anopheles dirus (*WRAIR2*)
+        - Anopheles epiroticus (*Epiroticus2*)
+        - Anopheles farauti (*FAR1*)
+        - Anopheles funestus (*FUMOZ*)
+        - Anopheles gambiae (*PEST*)
+        - Anopheles maculatus (*maculatus3*)
+        - Anopheles melas (*CM1001059 A*)
+        - Anopheles merus (*MAF*)
+        - Anopheles minimus (*MINIMUS1*)
+        - Anopheles quadriannulatus (*SANGWE*)
+        - Anopheles sinensis china (*China*)
+        - Anopheles sinensis (*SINENSIS*)
+        - Anopheles stephensi (*SDA-500*)
+        - Anopheles stephensi (*Indian*)
+        - Biomphalaria glabrata (*BB02*)
+        - Cimex lectularius (*Harlan*)
+        - Culex quinquefasciatus (*Johannesburg*)
+        - Glossina austeni (*TTRI*)
+        - Glossina brevipalpis (*IAEA*)
+        - Glossina fuscipes (*IAEA*)
+        - Glossina morsitans (*Yale*)
+        - Glossina pallidipes (*IAEA*)
+        - Glossina palpalis (*IAEA*)
+        - Ixodes scapularis (*Wikel*)
+        - Ixodes scapularis ise6 (*ISE6*)
+        - Leptotrombidium deliense (*UoL-UT*)
+        - Lutzomyia longipalpis (*Jacobina*)
+        - Musca domestica (*aabys*)
+        - Pediculus humanus (*USDA*)
+        - Phlebotomus papatasi (*Israel*)
+        - Rhodnius prolixus (*CDC*)
+        - Sarcoptes scabiei (*Arlian*)
+        - Stomoxys calcitrans (*USDA*)
+    - Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search) with version 83 of [InterPro](https://www.ebi.ac.uk/interpro/)
 		- Updated BioMarts for all gene and variation data
 		- Updated pan-taxonomic gene trees and homologies
-- New species loaded
-    - Actinia equina ("Beadlet anemone", _AE1_ strain, imported from https://rapid.ensembl.org)
-    - Whitefly:
-        - Bemisia tabaci (AsiaII-5)
-        - Bemisia tabaci (SSA1-SG1 Nig)
-        - Bemisia tabaci (SSA1-SG1 Ug)
-        - Bemisia tabaci (SSA2 Nig)
-        - Bemisia tabaci (SSA3 Nig)
-        - Bemisia tabaci (Sweetpotato Ug)
-        - Trialeurodes vaporariorum ("Greenhouse whitefly")
