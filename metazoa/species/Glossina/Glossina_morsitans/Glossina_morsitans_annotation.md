@@ -1,4 +1,4 @@
-*GmorY1.9* gene set
+*GmorY1.10* gene set
 -------------------
 
-Community annotation patch build for June 2018.
+Community annotation patch build for July 2019.
