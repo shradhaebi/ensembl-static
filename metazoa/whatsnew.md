@@ -1,5 +1,5 @@
 - Updated data
-    - Update of VectorBase originating species based on [VectorBase build #49 data](https://vectorbase.org/vectorbase/app) (now part of  the [VEuPathDB](https://veupathdb.org)). Switched to using INSDC accessions as primary seq\_region names
+    - Update of [VectorBase](https://vectorbase.org) originating species based on VectorBase [release #49 data](https://veupathdb.org/veupathdb/app/static-content/VEuPathDB/news.html#VectorBase49Released) (now part of  the [VEuPathDB](https://veupathdb.org)). Switched to using INSDC accessions as primary seq\_region names
         - Aedes aegypti (*LVP_AGWG*)
         - Aedes albopictus (*Foshan*)
         - Anopheles albimanus (*STECLA*)
