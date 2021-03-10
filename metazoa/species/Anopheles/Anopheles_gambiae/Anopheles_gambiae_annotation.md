@@ -2,7 +2,7 @@ Annotation
 ----------
 
 Annotation of the AgamP4 assembly was carried out by VectorBase. The set
-of gene models presented (genebuild AgamP4.12, released April 2019)
+of gene models presented (genebuild AgamP4.13, released July 2019)
 combines manual annotation, data provided by the research community, and
 gene prediction using the Ensembl system. Prediction utilised alignments
 of dipteran and other protein sets to the genome and generation of
