@@ -37,7 +37,8 @@ copy_files_to_websites.pl --release=101-48 --division=plants --species-only
 
 =cut
 
-my ($SCRIPT_ROOT, $help, $verbose, $dryrun, $auto, $version, $release, $site, $division, $home_only, $species_only);
+my ($SCRIPT_ROOT, $help, $auto, $version, $release, $site, $division, $home_only, $species_only);
+our ($dryrun, $verbose);
 
 BEGIN{
   &GetOptions(
@@ -205,17 +206,23 @@ foreach my $div (@divisions) {
 sub copy_files {
   my ($in, $out, $recurse) = @_;
 
-  my $cmd = "cp $in/* $out";
-  print "Executing $cmd\n" if $verbose;
-  system($cmd) unless $dryrun;
+  ## Note - do not use -a as we don't want to recurse automatically
+  my $cmd = "rsync ";
+  $cmd .= $dryrun ? '-n' : '-W';
+  $cmd .= 'v' if $verbose;
+  $cmd .= " --exclude='deprecated'";
+
+  my $paths = "$in/* $out";
+  print "Executing $cmd $paths\n" if $verbose;
+  system("$cmd $paths");
 
   if ($recurse) {
-    $cmd = "cp $in/*/* $out";
-    print "Executing: $cmd\n" if $verbose;
-    system($cmd) unless $dryrun;
-    $cmd = "cp $in/*/*/* $out";
-    print "Executing: $cmd\n" if $verbose;
-    system($cmd) unless $dryrun;
+    $paths = "$in/*/* $out";
+    print "Executing: $cmd $paths\n" if $verbose;
+    system("$cmd $paths");
+    $paths = "$in/*/*/* $out";
+    print "Executing: $cmd $paths\n" if $verbose;
+    system("$cmd $paths");
   }
 
 }
