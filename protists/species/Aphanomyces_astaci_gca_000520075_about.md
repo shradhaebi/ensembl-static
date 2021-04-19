@@ -1,7 +1,7 @@
-About *Aphanomyces astaci str. APO3* {#about-aphanomyces-astaci-str.-apo3 .first}
+About *Aphanomyces astaci str. APO3* 
 ------------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](https://en.wikipedia.org/wiki/Crayfish_plague_)
+
 
 **Crayfish plague**, ***Aphanomyces astaci***, is a water mold that
 infects crayfish, most notably the European *Astacus* which dies within
