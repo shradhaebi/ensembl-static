@@ -1,4 +1,4 @@
-About *Giardia lamblia* {#about-giardia-lamblia .first}
+About *Giardia lamblia* 
 -----------------------
 
 *Giardia lamblia* belong to the taxonomica group excavates and it is

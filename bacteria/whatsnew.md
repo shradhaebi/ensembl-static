@@ -1,4 +1,4 @@
-Release 50 of Ensembl Bacteria has no major updates since the previous release. As for release 49, we only represent non-redundant bacterial genomes as defined by criteria set out by UniProt. See more details about this update in our [blog](https://www.ensembl.info/2020/09/21/ensembl-bacteria-updates/). 
+Release 51 of Ensembl Bacteria has no major updates since the previous release. As for release 49, we only represent non-redundant bacterial genomes as defined by criteria set out by UniProt. See more details about this update in our [blog](https://www.ensembl.info/2020/09/21/ensembl-bacteria-updates/). 
 
 - Genomes
 

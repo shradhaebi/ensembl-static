@@ -1,7 +1,7 @@
-About *Spironucleus salmonicida* {#about-spironucleus-salmonicida .first}
+About *Spironucleus salmonicida* 
 --------------------------------
 
-[![Wikipedia](/img/wikipedia_logo_v2_en.png){#wiki_icon}](http://en.wikipedia.org/wiki/Spironucleus_salmonicida)
+
 
 ***Spironucleus salmonicida*** is a species of fish parasite. It is a
 flagellate adapted to micro-aerobic environments that causes systemic
