@@ -1,28 +1,37 @@
 ### References
 
-1.  [A chromosome conformation capture ordered sequence of the barley
+1.  [Long-read sequence assembly: a technical evaluation in barley](
+    https://europepmc.org/article/MED/33710295). \
+    Mascher M, Wicker T, Jenkins J, Plott C, Lux T, Koh CS, Ens J,
+    Gundlach H, Boston LB, Tulpova Z et al. 2021. The Plant Cell.
+    DOI: 10.1093/plcell/koab077 
+2.  [EORNA, a barley gene and transcript abundance database](
+    https://europepmc.org/article/MED/33767193).\
+    Milne L, Bayer M, Rapazote-Flores P, Mayer CD, Waugh R, Simpson CG.
+    2021. Scientific Data. 8(1):90
+3.  [A chromosome conformation capture ordered sequence of the barley
     genome](http://europepmc.org/abstract/MED/28447635).\
     Mascher M, Gundlach H, Himmelbach A, Beier S, Twardziok SO, Wicker
     T, Radchuk V, Dockter C, Hedley PE, Russell J et al. 2017. Nature.
     544:427-433.
-2.  [Comprehensive mapping of long-range interactions reveals folding
+4.  [Comprehensive mapping of long-range interactions reveals folding
     principles of the human
     genome](http://europepmc.org/abstract/MED/19815776).\
     Lieberman-Aiden E, van Berkum NL, Williams L, Imakaev M, Ragoczy T,
     Telling A, Amit I, Lajoie BR, Sabo PJ, Dorschner MO et al. 2009.
     Science. 326:289-93.
-3.  [A physical, genetic and functional sequence assembly of the barley
+5.  [A physical, genetic and functional sequence assembly of the barley
     genome](http://europepmc.org/abstract/MED/23075845).\
     International Barley Genome Sequencing Consortium, Mayer KF, Waugh
     R, Brown JW, Schulman A, Langridge P, Platzer M, Fincher GB,
     Muehlbauer GJ, Sato K et al. 2012. Nature. 491:711-716.
-4.  [A sequence-ready physical map of barley anchored genetically by two
+6.  [A sequence-ready physical map of barley anchored genetically by two
     million single-nucleotide
     polymorphisms](http://europepmc.org/abstract/MED/24243933).\
     Ariyadasa R, Mascher M, Nussbaumer T, Schulte D, Frenkel Z,
     Poursarebani N, Zhou R, Steuernagel B, Gundlach H, Taudien S et
     al. 2014. Plant Physiol.. 164
-5.  [Anchoring and ordering NGS contig assemblies by population
+7.  [Anchoring and ordering NGS contig assemblies by population
     sequencing (POPSEQ)](http://europepmc.org/abstract/MED/23998490).\
     Mascher M, Muehlbauer GJ, Rokhsar DS, Chapman J, Schmutz J, Barry K,
     Muoz-Amatrian M, Close TJ, Wise RP, Schulman AH et al. 2013. Plant
