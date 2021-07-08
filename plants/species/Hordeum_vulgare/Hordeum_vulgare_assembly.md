@@ -1,6 +1,5 @@
 ### Assembly
 
-This is the assembly of cultivar Morex, a six-row malting variety.
 Construction of MorexV3 pseudomolecules proceeded in several steps: 
 1) Canu assembly of PacBio circular consensus reads (27x coverage);
 2) scaffolding the Canu assembly with Bionano contigs;
