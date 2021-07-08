@@ -8,6 +8,6 @@
 
 - Updated genomes
     - [Sunflower](/Helianthus_annuus) (_Helianthus annuus_) updated to HanXRQr2.0-SUNRISE assembly [GCA_002127325.2](https://www.ebi.ac.uk/ena/browser/view/GCA_002127325.2)
-    - [Barley](/Hordeum_vulgare) updated to Morex V3, assembly [GCA_904849725](https://www.ncbi.nlm.nih.gov/assembly/GCA_904849725.1) and annotation from [e!DAL](http://doi.org/10.5447/ipk/2021/3). Tritex and GoldenPromise can be viewed via [cultivar view](Hordeum_vulgare/Info/Strains?db=core)
+    - [Barley](/Hordeum_vulgare) updated to Morex V3, assembly [GCA_904849725](https://www.ncbi.nlm.nih.gov/assembly/GCA_904849725.1) and annotation from [e!DAL](http://doi.org/10.5447/ipk/2021/3). GoldenPromise and the TRITEX version can be viewed via [cultivar view](Hordeum_vulgare/Info/Strains?db=core)
 
 Check which features are supported on each species [here](/species.html); if you would like to request a new species please email [Helpdesk](http://plants.ensembl.org/Help/Contact).
