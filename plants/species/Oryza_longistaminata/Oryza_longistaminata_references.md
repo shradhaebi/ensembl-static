@@ -1,7 +1,6 @@
 ### References
 
-1.  [Hierarchical scaffolding with
-    Bambus](http://europepmc.org/abstract/MED/14707177).\
-    Pop M, Kosack DS, Salzberg SL. 2004. Genome Res.. 14:149-159.
+1.  MED/29358651 
+2.  MED/23518283
 
 Picture credit: Paul Sanchez, Arizona Genomics Institute.
