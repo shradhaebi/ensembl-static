@@ -38,5 +38,4 @@ analysis and gene models whose protein is more than 30% in Pfam TE
 domains were removed. The final result was 41,335 loci containing
 protein-coding transcripts and 73,013 protein-coding transcripts.
 
-::: {style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: Roboto; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"}
-:::
+Repeated sequences were called with the Repeat Detector, which is part of the [Ensembl Genomes repeat feature pipelines](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). Repeats length: 157575986 - Repeats content: 36.3%
