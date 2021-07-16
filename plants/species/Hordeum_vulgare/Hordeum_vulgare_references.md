@@ -1,14 +1,7 @@
 ### References
 
-1.  [Long-read sequence assembly: a technical evaluation in barley](
-    https://europepmc.org/article/MED/33710295). \
-    Mascher M, Wicker T, Jenkins J, Plott C, Lux T, Koh CS, Ens J,
-    Gundlach H, Boston LB, Tulpova Z et al. 2021. The Plant Cell.
-    DOI: 10.1093/plcell/koab077 
-2.  [EORNA, a barley gene and transcript abundance database](
-    https://europepmc.org/article/MED/33767193).\
-    Milne L, Bayer M, Rapazote-Flores P, Mayer CD, Waugh R, Simpson CG.
-    2021. Scientific Data. 8(1):90
+1.  MED/33710295
+2.  MED/33767193
 3.  [TRITEX: chromosome-scale sequence assembly of Triticeae genomes with 
     open-source tools](https://europepmc.org/article/MED/31849336). \
     Monat C, Padmarasu S, Lux T, Wicker T, Gundlach H, Himmelbach A, 
