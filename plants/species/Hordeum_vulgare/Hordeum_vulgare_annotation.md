@@ -10,4 +10,6 @@ in their 100 kb flanking sequence compared to only 0.7% in MorexV2. The coding s
 to the V2 pseudomolecules.
 
 Moreover, models corresponding to the barley gene reference transcript dataset (BaRTv1.0) are also supported.
-These were derived from the analysis of 22 RNA-seq experiments covering 843 separate samples. 
+These were derived from the analysis of 22 RNA-seq experiments covering 843 separate samples.
+
+Repeats were annotated with the [Ensembl Genomes repeat feature pipeline](http://plants.ensembl.org/info/genome/annotation/repeat_features.html). There are: 3431114 Low complexity (Dust) features, covering 158 Mb (3.7% of the genome); 1681147 RepeatMasker features (with the nrTEplants library), covering 3212 Mb (76.0% of the genome); 2100078 Tandem repeats (TRF) features, covering 325 Mb (7.7% of the genome); Repeat Detector repeat length: 3422Mb (80.9% of the genome).
