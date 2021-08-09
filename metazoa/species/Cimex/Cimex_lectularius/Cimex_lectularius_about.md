@@ -15,7 +15,7 @@ maintained in culture in Harold Harlan\'s lab since 1973. Sequenced
 material was produced from animals after five generations of
 single pair matings.
 
-Source:
-[VectorBase](https://www.vectorbase.org/organisms/cimex-lectularius)
-[NCBI BioSample SAMN02649412](https://www.ncbi.nlm.nih.gov/biosample/SAMN02649412/)
-[BCM-HGSC Bed Bug Genome Project](https://www.hgsc.bcm.edu/arthropods/bed-bug-genome-project)
+Sources:
+* [VectorBase](https://www.vectorbase.org/organisms/cimex-lectularius)
+* [NCBI BioSample SAMN02649412](https://www.ncbi.nlm.nih.gov/biosample/SAMN02649412/)
+* [BCM-HGSC Bed Bug Genome Project](https://www.hgsc.bcm.edu/arthropods/bed-bug-genome-project)
