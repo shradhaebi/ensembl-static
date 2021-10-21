@@ -1,4 +1,4 @@
-About *Genus species*
+About *Lactuca sativa*
 ---------------------
 Lettuce (*Lactuca sativa L.*) is an important vegetable crop species and is widely consumed as salad greens in many countries.
 It was first depicted on wall paintings of Egyptian tombs around 2,500 BC, making it one of the oldest known vegetable crops. 
