@@ -1,3 +1,4 @@
+
 ### References
 
 1.  [The genome of the blood fluke *Schistosoma
@@ -15,3 +16,12 @@
     resource](http://europepmc.org/abstract/MED/18842636).\
     Zerlotini A, Heiges M, Wang H, Moraes RL, Dominitini AJ, Ruiz JC,
     Kissinger JC, Oliveira G. 2009. Nucleic Acids Research. 37:D579-82.
+4.  [Assembled chromosomes of the blood fluke Schistosoma mansoni provide insight into the evolution of its ZW sex-determination system](https://doi.org/10.1101/2021.08.13.456314).\
+    Sarah K Buddenborg, Alan Tracey, Duncan J Berger, Zhigang Lu, Stephen R Doyle, Beiyuan Fu, Fengtang Yang, Adam J Reid, Faye H Rodgers, Gabriel Rinaldi, Geetha Sankaranarayanan, Ulrike Böhme, Nancy Holroyd, Matthew Berriman. 2021. bioRxiv 2021.08.13.456314
+
+Picture credit (public domain): [Uniformed Services University of the
+Health
+Sciences](http://commons.wikimedia.org/wiki/File:Schistosoma_mansoni2.jpg)
+2006
+________________
+

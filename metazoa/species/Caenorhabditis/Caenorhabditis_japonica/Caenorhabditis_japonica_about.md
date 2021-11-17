@@ -1,9 +1,10 @@
+
 **NOTE:** The genome sequence and annotation for *C. japonica* are
 updated in Ensembl Metazoa infrequently. The data here corresponds with
 WormBase
-[WS260](ftp://ftp.wormbase.org/pub/wormbase/releases/WS260/species/c_japonica).
+[WS279](https://downloads.wormbase.org/releases/WS279//species/c_japonica).
 For the latest genome and annotation, please visit [WormBase
-ParaSite](http://parasite.wormbase.org) (for an Ensembl-oriented view),
+ParaSite](https://parasite.wormbase.org/Caenorhabditis_japonica_prjna12591) (for an Ensembl-oriented view),
 or [WormBase](http://www.wormbase.org).
 
 About *Caenorhabditis japonica*
@@ -26,8 +27,9 @@ isolate was inbred for 20 generations in the lab of David Fitch by
 transferral of a single plugged gravid female per generation.
 
 -   [*C. japonica* data at
-    WormBase](http://www.wormbase.org/species/c_japonica)
+    WormBase](http://www.wormbase.org/species/c_japonica).
 -   [*C. japonica* data at WormBase
-    ParaSite](http://parasite.wormbase.org/Caenorhabditis_japonica/Info/Index)
+    ParaSite](https://parasite.wormbase.org/Caenorhabditis_japonica_prjna12591).
 -   [Roundworm Genome Sequencing white
-    paper](http://www.genome.gov/11007952)
+    paper](https://www.genome.gov/11007952/roundworm-genome-sequencing).
+

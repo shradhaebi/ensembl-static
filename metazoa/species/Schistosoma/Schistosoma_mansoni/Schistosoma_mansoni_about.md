@@ -1,3 +1,9 @@
+
+**NOTE:** The genome sequence and annotation for *S. mansoni* are
+updated in Ensembl Metazoa infrequently. For the
+latest genome and annotation, please visit [WormBase
+ParaSite](https://parasite.wormbase.org/Schistosoma_mansoni_prjea36577).
+
 About *Schistosoma mansoni*
 ---------------------------
 
@@ -18,7 +24,7 @@ an immune response is initiated when eggs become trapped in the
 intestinal wall, or other organs such as the liver, and it is this
 severe immune response that underlies the disease pathology.
 
-Picture credit (public domain): [Uniformed Services University of the
-Health
-Sciences](http://commons.wikimedia.org/wiki/File:Schistosoma_mansoni2.jpg)
-2006
+-   [*S. mansoni* data at WormBase
+    ParaSite](https://parasite.wormbase.org/Schistosoma_mansoni_prjea36577).
+-   [Schistosomiasis information by CDC](https://www.cdc.gov/dpdx/schistosomiasis/index.html). 
+

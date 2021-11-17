@@ -1,9 +1,10 @@
+
 **NOTE:** The genome sequence and annotation for this nematode are
 updated in Ensembl Metazoa infrequently. The data shown here corresponds
 with WormBase
-[WS260](ftp://ftp.wormbase.org/pub/wormbase/releases/WS260). For the
+[WS279](https://downloads.wormbase.org/releases/WS279/species/c_remanei). For the
 latest genome and annotation, please visit [WormBase
-ParaSite](http://parasite.wormbase.org) (for an Ensembl-oriented view),
+ParaSite]https://parasite.wormbase.org/Caenorhabditis_remanei_prjna53967) (for an Ensembl-oriented view),
 or [WormBase](http://www.wormbase.org).
 
 About *Caenorhabditis remanei*
@@ -32,6 +33,7 @@ Scott Baird by transferral of a single gravid female per generation.
 -   [*C. remanei* data at
     WormBase](http://www.wormbase.org/species/c_remanei)
 -   [*C. remanei* data at WormBase
-    ParaSite](http://parasite.wormbase.org/Caenorhabditis_remanei/Info/Index)
+    ParaSite](https://parasite.wormbase.org/Caenorhabditis_remanei_prjna53967)
 -   [Roundworm Genome Sequencing white
-    paper](http://www.genome.gov/11007952)
+    paper](https://www.genome.gov/11007952/roundworm-genome-sequencing)
+
