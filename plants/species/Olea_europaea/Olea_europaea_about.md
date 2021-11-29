@@ -1,4 +1,4 @@
-About *Genus species*
+About *Olea europaea*
 ---------------------
 
 The Mediterranean olive tree (*Olea europaea* subsp. *europaea*) was one of the 
