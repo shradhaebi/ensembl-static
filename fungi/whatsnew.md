@@ -1,6 +1,6 @@
 - Genomes
     - EnsemblFungi has 1506 genomes in total
-		- 556 new genomes imported from [ENA] (https://www.ebi.ac.uk/ena/browser/home)
+		- 477 new genomes imported from [ENA] (https://www.ebi.ac.uk/ena/browser/home)
 		- 15 genomes imported from [VEuPath DB](https://veupathdb.org/veupathdb/app)
 
 - Updated data
