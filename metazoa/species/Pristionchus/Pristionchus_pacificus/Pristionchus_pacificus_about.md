@@ -1,22 +1,20 @@
+
 **NOTE:** The genome sequence and annotation for *P. pacificus* are
-updated in Ensembl Metazoa infrequently. The data here corresponds with
-WormBase [WS269](ftp://ftp.wormbase.org/pub/wormbase/releases/WS269).
+updated in Ensembl Metazoa infrequently.
 For the latest genome and annotation, please visit [WormBase
-ParaSite](http://parasite.wormbase.org) (for an Ensembl-oriented view),
-or [WormBase](http://www.wormbase.org).
+ParaSite](https://parasite.wormbase.org/Pristionchus_pacificus_prjna12644) (for an Ensembl-oriented view),
+or [WormBase](https://wormbase.org/species/p_pacificus). The data here corresponds with
+WormBase [WS279](https://downloads.wormbase.org/releases/WS279/species/p_pacificus).
 
 About *Pristionchus pacificus*
 ------------------------------
 
-*Pristionchus pacificus* is a small, free-living roundworm found in
-association with scarab beetles and Colorado potato beetles. It is
-estimated to have diverged from *C. elegans* 200-300 million years ago
-and retains many similar traits. *P. pacificus* is a model organism for
-developmental biology particularly in the analysis of vulval formation.
+*Pristionchus pacificus* is a small, free-living roundworm, which is found on several continents and is associated with scarab beetles and Colorado potato beetles. It is part of the diplogastrids and it is estimated to have diverged from *C. elegans* 200-300 million years. It, therefore, shares many experimental advantages with C. elegans and is being used as a model organism for developmental biology and ecological studies, particularly in studies involving the analysis of vulval formation.
 
--   [*P. paciificus* data at
-    WormBase](http://www.wormbase.org/species/p_pacificus)
 -   [*P. pacificus* data at WormBase
-    ParaSite](http://parasite.wormbase.org/Pristionchus_pacificus_prjna12644/Info/Index)
--   [Pristionchus database hosted at the Max-Plank Institut for
-    Evolutionary Biology](http://www.pristionchus.org/)
+    ParaSite](https://parasite.wormbase.org/Pristionchus_pacificus_prjna12644).
+-   [*P. paciificus* data at
+    WormBase](http://www.wormbase.org/species/p_pacificus).  
+-   [Pristionchus database hosted at the Max-Plank Institute for
+    Evolutionary Biology](http://www.pristionchus.org/).
+

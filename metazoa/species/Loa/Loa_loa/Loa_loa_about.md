@@ -1,8 +1,9 @@
+
 **NOTE:** The genome sequence and annotation represented here correspond
 with the original publication of the genome (Desjardins et al, 2013).
 For the latest *L. loa* data, including alternative genome assemblies,
 please visit [WormBase
-ParaSite](http://parasite.wormbase.org/Loa_loa_prjna246086/Info/SpeciesLanding/).
+ParaSite](https://parasite.wormbase.org/Loa_loa_prjna246086).
 
 About *Loa loa*
 ---------------
@@ -15,6 +16,7 @@ infectious larvae stage. Its geographic distribution is mainly Africa
 and India.
 
 -   [*L. loa* data at WormBase
-    ParaSite](http://parasite.wormbase.org/Loa_loa_prjna246086/Info/SpeciesLanding/)
+    ParaSite](https://parasite.wormbase.org/Loa_loa_prjna246086)
 -   [Broad Institute filariasis
     genomes](http://www.broadinstitute.org/annotation/genome/filarial_worms/GenomeDescriptions.html)
+

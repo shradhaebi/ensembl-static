@@ -1,8 +1,10 @@
+
 **NOTE:** The genome sequence and annotation for *C. briggsae* are
-updated in Ensembl Metazoa infrequently. For the latest genome and
+updated in Ensembl Metazoa infrequently. The data here corresponds with
+WormBase [WS279](https://downloads.wormbase.org/releases/WS279/species/c_briggsae). For the latest genome and
 annotation, please visit [WormBase
-ParaSite](http://parasite.wormbase.org) (for an Ensembl-oriented view),
-or [WormBase](http://www.wormbase.org).
+ParaSite](https://parasite.wormbase.org/Caenorhabditis_briggsae_prjna10731) (for an Ensembl-oriented view),
+or [WormBase](https://wormbase.org/species/c_briggsae).
 
 About *Caenorhabditis briggsae*
 -------------------------------
@@ -21,8 +23,9 @@ are presumed to transport worms, especially the dormant dauer stage,
 from one location to another.
 
 -   [*C. briggsae* data at
-    WormBase](http://www.wormbase.org/species/c_briggsae)
+    WormBase](http://www.wormbase.org/species/c_briggsae).
 -   [*C. briggsae* data WormBase
-    ParaSite](http://parasite.wormbase.org/Caenorhabditis_briggsae/Info/Index)
+    ParaSite](https://parasite.wormbase.org/Caenorhabditis_briggsae_prjna10731).
 -   [Roundworm Genome Sequencing white
-    paper](http://www.genome.gov/11007952)
+    paper](https://www.genome.gov/11007952/roundworm-genome-sequencing).
+

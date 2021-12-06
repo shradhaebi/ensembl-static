@@ -1,5 +1,6 @@
+
 Annotation
 ----------
 
-Annotation was predominantly automated and is described in the genome
-papers, Dietrich et al, 2008 and Werner et al, 2018
+The original gene predictions were made by the Sommer group at the Max-Planck Institute for Developmental Biology. Some of the gene models have since been reviewed and revised by WormBase.
+
