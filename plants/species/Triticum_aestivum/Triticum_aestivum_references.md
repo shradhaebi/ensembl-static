@@ -61,3 +61,8 @@
 12. [Efficient genome-wide detection and cataloging of EMS-induced mutations using next-generation sequencing and exome capture](http://www.plantcell.org/content/26/4/1382).\
 	Henry IM, Nagalakshmi U, Lieberman MC, Ngo KJ, Krasileva KV et al. 2014. Plant Cell 26:1382–1397
 
+13. [High-density genotyping of the A.E. Watkins Collection of hexaploid landraces identifies a large molecular diversity compared to elite bread wheat](https://pubmed.ncbi.nlm.nih.gov/28500796/).\
+	Mark O Winfield, Alexandra M Allen, Paul A Wilkinson, Amanda J Burridge, Gary L A Barker, Jane Coghill, Christy Waterfall, Luzie U Wingen, Simon Griffiths, Keith J Edwards. 2018. Plant Biotechnol J. 16(1):165-175
+
+14. [Exome sequencing highlights the role of wild-relative introgression in shaping the adaptive landscape of the wheat genome](https://www.nature.com/articles/s41588-019-0382-2).\
+	Fei He, Raj Pasam, Fan Shi, Surya Kant et al. 2019. Nature Genetics 51, 896-904 
