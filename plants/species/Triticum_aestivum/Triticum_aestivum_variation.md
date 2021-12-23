@@ -54,6 +54,12 @@ annotation and details please visit <http://www.polymarker.info/about>.
 In addition to the EMS-type variants, there are additional KASP markers from the Nottingham BBSRC Wheat Research Centre ([WRC](https://www.nottingham.ac.uk/wrc/germplasm-resources/genotyping.aspx)).
 These 710 KASP markers were developed from SNPs between wheat and ten wild relative species (Ambylopyrum muticum, Aegilops caudata, Aegilops speltoides, Secale cereale, Thinopyrum bessarabicum, Thinopyrum intermedium, Thinopyrum elongatum, Thinopyrum ponticum, Triticum timopheevii and Triticum urartu). These SNPs were aligned to the assembly by the WRC using the marker sequences and Blastn E-value cutoff value of 1e-05. Of these, 620 markers are genome-specific in design and thus, those SNPs have been aligned to their chromosome of specificity. Where the KASP markers are genome-nonspecific, the top Blast hit was selected for SNP alignment [10].
 
+**Exome Capture Watkins**
+4,493,110 markers were loaded from 103 accessions of the Watkins landrace collection [13]
+
+**Exome Capture Diversity 2019**
+[3,039,822](http://wheatgenomics.plantpath.ksu.edu/1000EC/) markers were loaded from 890 diverse wheat landraces and cultivars [14]
+
 **Linkage Disequilibrium (LD) data**
 
 LD data calculate [here](https://github.com/Ensembl/ensembl-variation/tree/release/99/C_code) has been added to 820K and 35K Axiom SNP arrays.
