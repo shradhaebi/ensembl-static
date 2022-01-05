@@ -1,7 +1,3 @@
 ### Assembly
 
-<!-- The current genome assembly of *Arabidopsis thaliana* is
-[TAIR10](http://europepmc.org/abstract/MED/17986450), produced by NCBI
-using data provided by TAIR, based in the Col-0 ecotype. It was
-determined by a BAC-by-BAC sequencing strategy anchored to chromosomes
-using a variety of genetic and physical maps. -->
+Complementary approaches were combined to obtain the pea reference genome assembly. Whole-genome Illumina short-read sequences were assembled into contigs using SoapdeNovo, then combined into scaffolds using long-range PacBio RSII sequences and whole-genome profiling of a bacterial articial chromosome (BAC) library. Scaffolds were manually curated for inter and intrachromosomal chimeras using sequences obtained from single chromosomes isolated by flow-cytometr and ultra-high-density skim genotyping-by-sequencing genetic map. Curated scaffolds were then integrated into 24,623 super-scaffolds (L50 of 415 kilobases (kb)) using BioNano maps. The seven pseudomolecules representing the pea chromosomes were obtained by anchoring super-scaffolds onto high-density genetic maps. Pseudomolecules were named according to the reference pea genetic map25 and chromosome numbering.
