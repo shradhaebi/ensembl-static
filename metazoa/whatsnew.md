@@ -4,7 +4,8 @@
       - _Anoplophora glabripennis_ (Asian long-horned beetle, GCA000390285.2)
       - _Bombus impatiens_ (Common eastern bumblebee, GCA_000188095.4)
       - _Bombyx mori_ (Domestic silkworm, GCA_014905235.2)
-    - New species
+    - New assemblies
+      - _Culex quinquefasciatus_ (Southern house mosquito, GCA_015732765.1)
     - Data synchronised with the WormBase project
       - Updated genesets
       - New species
