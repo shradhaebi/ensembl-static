@@ -2,7 +2,7 @@ Assembly
 --------
 
 The assembly presented is the
-_Agla_2.0_
+_Agla\_2.0_
 assembly submitted to
 [INSDC](http://www.insdc.org) with the assembly accession
 [GCA\_000390285.2](http://www.ebi.ac.uk/ena/data/view/GCA_000390285.2).
