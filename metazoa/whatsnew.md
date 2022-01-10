@@ -6,6 +6,7 @@
       - _Bombyx mori_ (Domestic silkworm, GCA_014905235.2)
       - _Danaus plexippus_ (Monarch butterfly, GCA_009731565.1)
       - _Glossina fuscipes_ (Tsetse fly, GCA_014805625.1)
+      - _Solenopsis invicta_ (Red fire ant, GCA_016802725.1)
     - New assemblies
       - _Culex quinquefasciatus_ (Southern house mosquito, GCA_015732765.1)
     - Data synchronised with the WormBase project
