@@ -9,7 +9,7 @@ to allow them to maintain a southerly direction. In addition to the
 great opportunities for studying circadian clockwork and the molecular
 basis of long-distance migration, the mimicry complex formed by the
 Monarch and the Viceroy butterflies offers insights into adaptive
-evolution.
+evolution.[1]
 
 Picture credit (Creative Commons BY 2.0): [Thomas
 Bresson](http://commons.wikimedia.org/wiki/File:Danaus_plexippus_(2).jpg)
