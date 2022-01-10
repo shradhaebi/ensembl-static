@@ -2,6 +2,8 @@
     - Assembly and gene set data updated
       - _Acyrthosiphon pisum_ (Pea aphid, GCA005508785.1)
       - _Anoplophora glabripennis_ (Asian long-horned beetle, GCA000390285.2)
+      - _Bombus impatiens_ (Common eastern bumblebee, GCA_000188095.4)
+      - _Bombyx mori_ (Domestic silkworm, GCA_014905235.2)
     - New species
     - Data synchronised with the WormBase project
       - Updated genesets
