@@ -9,7 +9,7 @@ phloem and would otherwise be missing from the aphids\' diet. The
 co-evolution of the aphid and Buchnera has led to extensive gene loss
 from the genome, including immunity related pathways, purine salvage and
 the urea cycle. At the same time over 2000 gene families are duplicated,
-including miRNA synthesis and sugar transport.
+including miRNA synthesis and sugar transport [1,2].
 
 Picture credit (Creative Commons BY 2.5): [Shipher Wu (photograph) and
 Gee-way Lin (aphid

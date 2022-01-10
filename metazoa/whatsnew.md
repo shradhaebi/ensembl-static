@@ -1,6 +1,10 @@
 - Updated data
-    - Updated species 
-        - Cimex lectularius (*Harlan*)
+    - Assembly and gene set data updated
+      - _Acyrthosiphon pisum_ (GCA005508785.1)
+    - New species
+    - Data synchronised with the WormBase project 
+      - Updated genesets
+      - New species
     - Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search) with version 86 of [InterPro](https://www.ebi.ac.uk/interpro/)
     - Updated BioMarts for all gene and variation data
     - Updated pan-taxonomic gene trees and homologies
