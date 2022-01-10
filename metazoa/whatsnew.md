@@ -1,8 +1,9 @@
 - Updated data
     - Assembly and gene set data updated
-      - _Acyrthosiphon pisum_ (GCA005508785.1)
+      - _Acyrthosiphon pisum_ (Pea aphid, GCA005508785.1)
+      - _Anoplophora glabripennis_ (Asian long-horned beetle, GCA000390285.2)
     - New species
-    - Data synchronised with the WormBase project 
+    - Data synchronised with the WormBase project
       - Updated genesets
       - New species
     - Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search) with version 86 of [InterPro](https://www.ebi.ac.uk/interpro/)
