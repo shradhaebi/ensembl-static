@@ -15,3 +15,4 @@
     genomics](http://europepmc.org/abstract/MED/19126223).\
     Wurm Y, Uva P, Ricci F, Wang J, Jemielity S, Iseli C, Falquet L,
     Keller L. 2009. BMC Genomics. 10:5.
+5. [Nature of a Greenbeard Gene in the Fire Ant](https://cordis.europa.eu/project/id/838666)
