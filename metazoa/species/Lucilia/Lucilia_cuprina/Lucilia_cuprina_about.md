@@ -15,8 +15,8 @@ female fly locates a sheep with an open wound in which she lays her
 eggs. The emerging larvae cause large lesions on the sheep, which may
 prove to be fatal.
 
-([Text](http://en.wikipedia.org/wiki/Lucilia_cuprina) from
-[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+([Text](https://en.wikipedia.org/wiki/Lucilia_cuprina) from
+[Wikipedia](https://en.wikipedia.org/), the free encyclopaedia.)
 
 Picture credit (Creative Commons BY 2.0): [Graham
 Wise](https://commons.wikimedia.org/wiki/File:Lucilia_cuprina_(14501528086).jpg)

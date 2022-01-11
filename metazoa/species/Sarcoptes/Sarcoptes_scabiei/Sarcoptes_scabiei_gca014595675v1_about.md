@@ -17,8 +17,8 @@ days, move about on the skin, moult into a nymphal stage, and then
 mature into adult mites. The adult mites live three to four weeks in the
 host\'s skin.
 
-([Text](http://en.wikipedia.org/wiki/Sarcoptes_scabiei) from
-[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+([Text](https://en.wikipedia.org/wiki/Sarcoptes_scabiei) from
+[Wikipedia](https://en.wikipedia.org/), the free encyclopaedia.)
 
 Picture credit (Creative Commons BY-SA 3.0): [Alan R.
 Walker](https://commons.wikimedia.org/wiki/File:Sarcoptes-scabiei.JPG)

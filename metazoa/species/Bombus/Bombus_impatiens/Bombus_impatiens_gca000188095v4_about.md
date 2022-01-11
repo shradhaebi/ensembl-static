@@ -12,8 +12,8 @@ This increase consequently led to their farther spread outside their
 previous distribution range. They are considered one of the most
 important species of pollinator bees in North America.
 
-([Text](http://en.wikipedia.org/wiki/Common_eastern_bumblebee) from
-[Wikipedia](http://en.wikipedia.org/), the free encyclopaedia.)
+([Text](https://en.wikipedia.org/wiki/Common_eastern_bumblebee) from
+[Wikipedia](https://en.wikipedia.org/), the free encyclopaedia.)
 
 Picture credit (public domain): [Christopher
 Johnson](https://commons.wikimedia.org/wiki/File:Bombus_impatiens_by_Christopher_Johnson.jpg)
