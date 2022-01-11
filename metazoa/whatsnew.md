@@ -12,6 +12,9 @@
     - New assemblies
       - _Culex quinquefasciatus_ (Southern house mosquito, GCA\_015732765.1)
       - _Ixodes scapularis_ (Black-legged tick, GCA\_016920785.2)
+      - _Dermacentor silvarum_ (Ticks, GCA\_013339745.1)
+      - _Rhipicephalus microplus_ (Southern cattle tick, GCA\_013339725.1)
+      - _Rhipicephalus sanguineus_ (Brown dog tick, GCA\_013339695.1)
     - Data synchronised with the WormBase project
       - Updated genesets
       - New species
