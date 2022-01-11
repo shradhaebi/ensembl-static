@@ -11,6 +11,7 @@
       - _Teleopsis dalmanni_ (Malaysian stalk-eyed fly, GCA\_002237135.2)
     - New assemblies
       - _Culex quinquefasciatus_ (Southern house mosquito, GCA\_015732765.1)
+      - _Ixodes scapularis_ (Black-legged tick, GCA\_016920785.2)
     - Data synchronised with the WormBase project
       - Updated genesets
       - New species
