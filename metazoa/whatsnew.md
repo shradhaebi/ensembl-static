@@ -15,6 +15,7 @@
       - _Dermacentor silvarum_ (Ticks, GCA\_013339745.1)
       - _Rhipicephalus microplus_ (Southern cattle tick, GCA\_013339725.1)
       - _Rhipicephalus sanguineus_ (Brown dog tick, GCA\_013339695.1)
+      - _Haemaphysalis longicornis_ (Longhorned tick, GCA\_013339765.1)
     - Data synchronised with the WormBase project
       - Updated genesets
       - New species
