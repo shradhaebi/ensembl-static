@@ -8,6 +8,7 @@
       - _Glossina fuscipes_ (Tsetse fly, GCA\_014805625.1)
       - _Solenopsis invicta_ (Red fire ant, GCA\_016802725.1)
       - _Sarcoptes scabiei_ (Itch mite, GCA\_014595675.1)
+      - _Teleopsis dalmanni_ (Malaysian stalk-eyed fly, GCA\_002237135.2)
     - New assemblies
       - _Culex quinquefasciatus_ (Southern house mosquito, GCA\_015732765.1)
     - Data synchronised with the WormBase project
