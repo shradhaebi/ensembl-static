@@ -1,14 +1,15 @@
 - Updated data
     - Assembly and gene set data updated
-      - _Acyrthosiphon pisum_ (Pea aphid, GCA005508785.1)
-      - _Anoplophora glabripennis_ (Asian long-horned beetle, GCA000390285.2)
-      - _Bombus impatiens_ (Common eastern bumblebee, GCA_000188095.4)
-      - _Bombyx mori_ (Domestic silkworm, GCA_014905235.2)
-      - _Danaus plexippus_ (Monarch butterfly, GCA_009731565.1)
-      - _Glossina fuscipes_ (Tsetse fly, GCA_014805625.1)
-      - _Solenopsis invicta_ (Red fire ant, GCA_016802725.1)
+      - _Acyrthosiphon pisum_ (Pea aphid, GCA\_005508785.1)
+      - _Anoplophora glabripennis_ (Asian long-horned beetle, GCA\_000390285.2)
+      - _Bombus impatiens_ (Common eastern bumblebee, GCA\_000188095.4)
+      - _Bombyx mori_ (Domestic silkworm, GCA\_014905235.2)
+      - _Danaus plexippus_ (Monarch butterfly, GCA\_009731565.1)
+      - _Glossina fuscipes_ (Tsetse fly, GCA\_014805625.1)
+      - _Solenopsis invicta_ (Red fire ant, GCA\_016802725.1)
+      - _Sarcoptes scabiei_ (Itch mite, GCA\_014595675.1)
     - New assemblies
-      - _Culex quinquefasciatus_ (Southern house mosquito, GCA_015732765.1)
+      - _Culex quinquefasciatus_ (Southern house mosquito, GCA\_015732765.1)
     - Data synchronised with the WormBase project
       - Updated genesets
       - New species
