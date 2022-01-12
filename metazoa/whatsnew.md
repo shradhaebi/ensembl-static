@@ -17,9 +17,25 @@
       - _Rhipicephalus sanguineus_ (Brown dog tick, GCA\_013339695.1)
       - _Haemaphysalis longicornis_ (Longhorned tick, GCA\_013339765.1)
       - _Hyalomma asiaticum_ (Ticks, GCA\_013339685.1)
+      - _Ixodes persulcatus_ (Taiga tick, GCA\_013358835.1)
     - Data synchronised with the WormBase project
-      - Updated genesets
+      - Updated assemblies and gene sets
+        - _Schistosoma mansoni_
+      - Updated gene sets
+        - _Brugia malayi_
+        - _Caenorhabditis brenneri_
+        - _Caenorhabditis briggsae_
+        - _Caenorhabditis elegans_
+        - _Caenorhabditis japonica_
+        - _Caenorhabditis remanei_
+        - _Onchocerca volvulus_
+        - _Pristionchus pacificus_
+        - _Strongyloides ratti_
       - New species
+        - _Ascaris suum_
+        - _Hymenolepis microstoma_
+        - _Trichuris muris_
+        - _Necator americanus_
     - Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search) with version 86 of [InterPro](https://www.ebi.ac.uk/interpro/)
     - Updated BioMarts for all gene and variation data
     - Updated pan-taxonomic gene trees and homologies
