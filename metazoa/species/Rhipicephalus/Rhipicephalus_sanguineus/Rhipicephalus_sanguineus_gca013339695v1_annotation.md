@@ -5,4 +5,4 @@ Ensembl Metazoa displays the genes from [NCBI Rhipicephalus sanguineus Annotatio
 Small RNA features, protein features and cross-references have been
 annotated by Ensembl Metazoa.
 
-The original TIGMIC Group[2] annotation added as a separate "CNCB-NGDC annotation" track.
+The original TIGMIC Group[2,3] annotation added as a separate "CNCB-NGDC annotation" track.
