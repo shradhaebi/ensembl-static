@@ -18,7 +18,7 @@
   - _Haemaphysalis longicornis_ (Longhorned tick, GCA\_013339765.1)
   - _Hyalomma asiaticum_ (Ticks, GCA\_013339685.1)
   - _Ixodes persulcatus_ (Taiga tick, GCA\_013358835.1)
-- **Data synchronised with WormBase and WormBase ParaSite:**
+- **Data synchronised with [WormBase](https://wormbase.org/) and [WormBase ParaSite](https://parasite.wormbase.org/):**
 - Updated assemblies and gene sets
   - _Schistosoma mansoni_
 - Updated gene sets
