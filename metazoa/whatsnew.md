@@ -1,6 +1,5 @@
 ### Updated data
-
-- Assembly and gene set data updated
+- **Assembly and gene set data updated**
   - _Acyrthosiphon pisum_ (Pea aphid, GCA\_005508785.1)
   - _Anoplophora glabripennis_ (Asian long-horned beetle, GCA\_000390285.2)
   - _Bombus impatiens_ (Common eastern bumblebee, GCA\_000188095.4)
@@ -10,8 +9,7 @@
   - _Solenopsis invicta_ (Red fire ant, GCA\_016802725.1)
   - _Sarcoptes scabiei_ (Itch mite, GCA\_014595675.1)
   - _Teleopsis dalmanni_ (Malaysian stalk-eyed fly, GCA\_002237135.2)
-
-- New assemblies
+- **New assemblies**
   - _Culex quinquefasciatus_ (Southern house mosquito, GCA\_015732765.1)
   - _Ixodes scapularis_ (Black-legged tick, GCA\_016920785.2)
   - _Dermacentor silvarum_ (Ticks, GCA\_013339745.1)
@@ -20,10 +18,9 @@
   - _Haemaphysalis longicornis_ (Longhorned tick, GCA\_013339765.1)
   - _Hyalomma asiaticum_ (Ticks, GCA\_013339685.1)
   - _Ixodes persulcatus_ (Taiga tick, GCA\_013358835.1)
-
-_Data synchronised with WormBase and WormBase ParaSite_
+- **Data synchronised with WormBase and WormBase ParaSite:**
 - Updated assemblies and gene sets
-    - _Schistosoma mansoni_
+  - _Schistosoma mansoni_
 - Updated gene sets
   - _Brugia malayi_
   - _Caenorhabditis brenneri_
@@ -39,7 +36,6 @@ _Data synchronised with WormBase and WormBase ParaSite_
   - _Hymenolepis microstoma_
   - _Trichuris muris_
   - _Necator americanus_
-
-- Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search) with version 86 of [InterPro](https://www.ebi.ac.uk/interpro/)
-- Updated BioMarts for all gene and variation data
-- Updated pan-taxonomic gene trees and homologies
+- **Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search) with version 86 of [InterPro](https://www.ebi.ac.uk/interpro/)**
+- **Updated BioMarts for all gene and variation data**
+- **Updated pan-taxonomic gene trees and homologies**
