@@ -1,41 +1,50 @@
 ### Updated data
 - **Assembly and gene set data updated**
-  - _Acyrthosiphon pisum_ (Pea aphid, GCA\_005508785.1)
-  - _Anoplophora glabripennis_ (Asian long-horned beetle, GCA\_000390285.2)
-  - _Bombus impatiens_ (Common eastern bumblebee, GCA\_000188095.4)
-  - _Bombyx mori_ (Domestic silkworm, GCA\_014905235.2)
-  - _Danaus plexippus_ (Monarch butterfly, GCA\_009731565.1)
-  - _Glossina fuscipes_ (Tsetse fly, GCA\_014805625.1)
-  - _Solenopsis invicta_ (Red fire ant, GCA\_016802725.1)
-  - _Sarcoptes scabiei_ (Itch mite, GCA\_014595675.1)
-  - _Teleopsis dalmanni_ (Malaysian stalk-eyed fly, GCA\_002237135.2)
-- **New assemblies**
-  - _Culex quinquefasciatus_ (Southern house mosquito, GCA\_015732765.1)
-  - _Ixodes scapularis_ (Black-legged tick, GCA\_016920785.2)
-  - _Dermacentor silvarum_ (Ticks, GCA\_013339745.1)
-  - _Rhipicephalus microplus_ (Southern cattle tick, GCA\_013339725.1)
-  - _Rhipicephalus sanguineus_ (Brown dog tick, GCA\_013339695.1)
-  - _Haemaphysalis longicornis_ (Longhorned tick, GCA\_013339765.1)
-  - _Hyalomma asiaticum_ (Ticks, GCA\_013339685.1)
-  - _Ixodes persulcatus_ (Taiga tick, GCA\_013358835.1)
-- **Data synchronised with [WormBase](https://wormbase.org/) and [WormBase ParaSite](https://parasite.wormbase.org/):**
-- Updated assemblies and gene sets
-  - _Schistosoma mansoni_
-- Updated gene sets
-  - _Brugia malayi_
-  - _Caenorhabditis brenneri_
-  - _Caenorhabditis briggsae_
-  - _Caenorhabditis elegans_
-  - _Caenorhabditis japonica_
-  - _Caenorhabditis remanei_
-  - _Onchocerca volvulus_
-  - _Pristionchus pacificus_
-  - _Strongyloides ratti_
-- New species
-  - _Ascaris suum_
-  - _Hymenolepis microstoma_
-  - _Trichuris muris_
-  - _Necator americanus_
-- **Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search) with version 86 of [InterPro](https://www.ebi.ac.uk/interpro/)**
+  - _Crassostrea gigas_ (Pacific oyster, GCA_902806645.1)
+  - _Anopheles atroparvus_ (Anopheles maculipennis mosquito complex, GCA_914969975.1)
+- **Updated gene sets**
+  - _Dendroctonus ponderosae_ (Mountain pine beetle, GCA_000355655.1) 
+- **New species**
+  - _Agrilus planipennis_ (The emerald ash borer, GCA_000699045.2)
+  - _Anneissia japonica_ (Crinoid, GCA_011630105.1)
+  - _Aphidius gifuensis_ (Endoparasitoid wasp, GCA_014905175.1)
+  - _Aplysia californica_ (California sea hare, GCA_000002075.2)
+  - _Athalia rosae_ (Turnip sawfly, GCA_000344095.2)
+  - _Bactrocera dorsalis_ (Oriental fruit fly, GCA_000789215.2)
+  - _Bactrocera latifrons_ (Solanum fruit fly, GCA_001853355.1)
+  - _Bactrocera tryoni_ (Queensland fruit fly, GCA_016617805.2)
+  - _Centruroides sculpturatus_ (Arizona bark scorpion, GCA_000671375.2)
+  - _Ceratitis capitata_ (Mediterranean fruit fly, GCA_000347755.4)
+  - _Copidosoma floridanum_ (Parasitoid wasp, GCA_000648655.2)
+  - _Cotesia glomerata_ (White butterfly parasite, GCA_020080835.1)
+  - _Crassostrea virginica_ (Eastern oyster, GCA_002022765.4)
+  - _Dendronephthya gigantea_ (Soft coral, GCA_004324835.1)
+  - _Dermatophagoides pteronyssinus_ (House dust mite, GCA_001901225.2)
+  - _Diabrotica virgifera_ (Western Corn rootworm, GCA_003013835.2)
+  - _Diuraphis noxia_ (Russian wheat aphid, GCA_001186385.1)
+  - _Gigantopelta aegis_ (Hydrothermal deep sea snail, GCA_016097555.1)
+  - _Hermetia illucens_ (Black soldier fly, GCA_905115235.1)
+  - _Hydra vulgaris_ (Hydroid, GCA_000004095.1)
+  - _Leptinotarsa decemlineata_ (Colorado potato beetle, GCA_000500325.2)
+  - _Limulus polyphemus_ (Atlantic horseshoe crab, GCA_000517525.1)
+  - _Lytechinus variegatus_ (Green sea urchin, GCA_018143015.1)
+  - _Metaseiulus occidentalis_ (Spider mite, GCA_000255335.1)
+  - _Monomorium pharaonis_ (Pharaoh ant, GCA_013373865.2)
+  - _Onthophagus taurus_ (Taurus scarab bettle, GCA_000648695.2)
+  - _Ooceraea biroi_ (Clonal raider ant, GCA_003672135.1)
+  - _Orbicella faveolata_ (Mountainous star coral, GCA_002042975.1)
+  - _Orussus abietinus_ (Parasitic wood wasp, GCA_000612105.2)
+  - _Parasteatoda tepidariorum_ (Common house spider, GCA_000365465.3)
+  - _Penaeus monodon_ (Giant tiger prawn, GCA_015228065.1)
+  - _Phlebotomus perniciosus_ (Sand fly, GCA_918844115.1)
+  - _Pocillopora damicornis_ (Cauliflower coral, GCA_003704095.1)
+  - _Pomacea canaliculata_ (Golden apple snail, GCA_003073045.1)
+  - _Priapulus caudatus_ (Penis worm, GCA_000485595.2)
+  - _Rhagoletis pomonella_ (Railroad worm, GCA_013731165.1)
+  - _Rhopalosiphum maidis_ (Corn leaf aphid, GCA_003676215.3)
+  - _Saccoglossus kowalevskii_ (Acorn worm, GCA_000003605.1)
+  - _Sipha flava_ (Yellow sugarcane aphid, GCA_003268045.1)
+  - _Stylophora pistillata_ (Smooth cauliflower coral, GCA_002571385.1)
+  - _Trichogramma pretiosum_ (Endoparasitoid wasp, GCA_000599845.3  
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
