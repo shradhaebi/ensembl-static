@@ -1,6 +1,6 @@
 ## Wheat assemblies
 
-Ensembl Plants hosts the [latest wheat assembly](http://plants.ensembl.org/Wheat) from the IWGSC (RefSeq v1.0), including:
+Ensembl Plants hosts the [RefSeq v1.0 assembly](http://plants.ensembl.org/Wheat) from the IWGSC, including:
 
 - The IWGSC RefSeq v1.1 gene annotation, with links to [wheat-expression.com](http://www.wheat-expression.com) and [KnetMiner](https://knetminer.rothamsted.ac.uk/Triticum_aestivum/)
 - [14 wheat cultivars](/Triticum_aestivum/Info/Strains?db=core) from the [10+ genome project](http://www.10wheatgenomes.com)
