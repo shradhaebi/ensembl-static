@@ -73,6 +73,7 @@ convert -crop 500x500+100+100  organism_ch_1.png Clytia_hemisphaerica.png
 convert -crop 216x216+0+8 +repage -gravity center Varroa_Mite.jpg Varroa_destructor.png
 convert +repage -background black -gravity center -extent 610x610  Clytia-ENSEMBL-2.jpeg Clytia_hemisphaerica.png
 convert -crop 385x120+1+10 +repage -background black -gravity center -extent 385x385 hmia_stripes_hor-0.png hmia_stripes_moved.png
+convert -crop 1500x850+00+0 -background black -gravity center +repage -extent 1500x1500 -resize 512x512 ensembl_gigas_black.jpg Crassostrea_gigas.png
 ```
 
 
