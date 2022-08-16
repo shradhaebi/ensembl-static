@@ -2,7 +2,7 @@
 **NOTE:** The genome sequence and annotation for *C. elegans* are
 updated in Ensembl infrequently. The data here
 corresponds with WormBase
-[WS279](https://downloads.wormbase.org/releases/WS279/species/c_elegans/PRJNA13758/). For the
+[WS282](https://downloads.wormbase.org/releases/WS282/species/c_elegans/PRJNA13758/). For the
 latest genome and annotation, please visit [WormBase
 ParaSite](https://parasite.wormbase.org/Caenorhabditis_elegans_prjna13758) (for an Ensembl-oriented view),
 or [WormBase](https://wormbase.org/species/c_elegans).
