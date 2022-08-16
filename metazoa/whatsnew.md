@@ -1,50 +1,62 @@
 ### Updated data
 - **Assembly and gene set data updated**
-  - _Crassostrea gigas_ (Pacific oyster, GCA\_902806645.1)
-  - _Anopheles atroparvus_ (Anopheles maculipennis mosquito complex, GCA\_914969975.1) (N.B. The older GCA\_000473505.1 assembly will be removed from the Release 56)
+  - _Daphnia magna_ (Fresh water planktonic, GCA\_020631705.2)  (N.B. The older GCA\_001632505.1 assembly will be removed from the Release 56)
+  - _Lingula anatina_ (Lamp shell, GCA\_001039355.2) (N.B. The older GCA\_001039355.1 assembly will be removed from the Release 56)
+
 - **Updated gene sets**
-  - _Dendroctonus ponderosae_ (Mountain pine beetle, GCA\_000355655.1) 
+  - _Caenorhabditis elegans_ (Nematode worm,  WormBase WS282, GCA\_000002985.3)
+  - _Octopus bimaculoides_ (California two-spot octopus, GCA\_001194135.1)  (N.B. A RefSeq annotation variant loaded as a separate core)
+
 - **New species**
-  - _Agrilus planipennis_ (The emerald ash borer, GCA\_000699045.2)
-  - _Anneissia japonica_ (Crinoid, GCA\_011630105.1)
-  - _Aphidius gifuensis_ (Endoparasitoid wasp, GCA\_014905175.1)
-  - _Aplysia californica_ (California sea hare, GCA\_000002075.2)
-  - _Athalia rosae_ (Turnip sawfly, GCA\_000344095.2)
-  - _Bactrocera dorsalis_ (Oriental fruit fly, GCA\_000789215.2)
-  - _Bactrocera latifrons_ (Solanum fruit fly, GCA\_001853355.1)
-  - _Bactrocera tryoni_ (Queensland fruit fly, GCA\_016617805.2)
-  - _Centruroides sculpturatus_ (Arizona bark scorpion, GCA\_000671375.2)
-  - _Ceratitis capitata_ (Mediterranean fruit fly, GCA\_000347755.4)
-  - _Copidosoma floridanum_ (Parasitoid wasp, GCA\_000648655.2)
-  - _Cotesia glomerata_ (White butterfly parasite, GCA\_020080835.1)
-  - _Crassostrea virginica_ (Eastern oyster, GCA\_002022765.4)
-  - _Dendronephthya gigantea_ (Soft coral, GCA\_004324835.1)
-  - _Dermatophagoides pteronyssinus_ (House dust mite, GCA\_001901225.2)
-  - _Diabrotica virgifera_ (Western Corn rootworm, GCA\_003013835.2)
-  - _Diuraphis noxia_ (Russian wheat aphid, GCA\_001186385.1)
-  - _Gigantopelta aegis_ (Hydrothermal deep sea snail, GCA\_016097555.1)
-  - _Hermetia illucens_ (Black soldier fly, GCA\_905115235.1)
-  - _Hydra vulgaris_ (Hydroid, GCA\_000004095.1)
-  - _Leptinotarsa decemlineata_ (Colorado potato beetle, GCA\_000500325.2)
-  - _Limulus polyphemus_ (Atlantic horseshoe crab, GCA\_000517525.1)
-  - _Lytechinus variegatus_ (Green sea urchin, GCA\_018143015.1)
-  - _Metaseiulus occidentalis_ (Spider mite, GCA\_000255335.1)
-  - _Monomorium pharaonis_ (Pharaoh ant, GCA\_013373865.2)
-  - _Onthophagus taurus_ (Taurus scarab bettle, GCA\_000648695.2)
-  - _Ooceraea biroi_ (Clonal raider ant, GCA\_003672135.1)
-  - _Orbicella faveolata_ (Mountainous star coral, GCA\_002042975.1)
-  - _Orussus abietinus_ (Parasitic wood wasp, GCA\_000612105.2)
-  - _Parasteatoda tepidariorum_ (Common house spider, GCA\_000365465.3)
-  - _Penaeus monodon_ (Giant tiger prawn, GCA\_015228065.1)
-  - _Phlebotomus perniciosus_ (Sand fly, GCA\_918844115.1)
-  - _Pocillopora damicornis_ (Cauliflower coral, GCA\_003704095.1)
-  - _Pomacea canaliculata_ (Golden apple snail, GCA\_003073045.1)
-  - _Priapulus caudatus_ (Penis worm, GCA\_000485595.2)
-  - _Rhagoletis pomonella_ (Railroad worm, GCA\_013731165.1)
-  - _Rhopalosiphum maidis_ (Corn leaf aphid, GCA\_003676215.3)
-  - _Saccoglossus kowalevskii_ (Acorn worm, GCA\_000003605.1)
-  - _Sipha flava_ (Yellow sugarcane aphid, GCA\_003268045.1)
-  - _Stylophora pistillata_ (Smooth cauliflower coral, GCA\_002571385.1)
-  - _Trichogramma pretiosum_ (Endoparasitoid wasp, GCA\_000599845.3
+  - _Amphibalanus amphitrite_ (Acorn barnacle, GCA\_019059575.1)
+  - _Asterias rubens_ (European starfish, GCA\_902459465.3) -- [Ensembl GeneBuild](https://rapid.ensembl.org/info/genome/genebuild/full_genebuild.html) annotaion, imported from the [Ensembl Rapid]()
+  - _Acropora millepora_ (Stony coral, GCA\_013753865.1)
+  - _Acanthaster planci_ (Crown-of-thorns starfish, GCA\_001949145.1)
+  - _Actinia tenebrosa_ (Australian red Waratah sea anemone, GCA\_009602425.1)
+  - _Eurytemora affinis_ (Calanoid copepod, GCA\_000591075.2)
+  - _Homarus americanus_ (American lobster, GCA\_018991925.1)
+  - _Hyalella azteca_ (Amphipod, GCA\_000764305.2)
+  - _Mercenaria mercenaria_ (Hard clam, quahog, GCA\_014805675.2)
+
+  - _mizuhopecten_yessoensis_gca002113885v2
+  - _owenia_fusiformis_gca903813345v1
+  - _octopus_sinensis_gca006345805v1
+  - _procambarus_clarkii_gca020424385v2
+  - _penaeus_japonicus_gca017312705v1
+  - _patiria_miniata_gca015706575v1
+  - _pollicipes_pollicipes_gca011947565v2
+  - _portunus_trituberculatus_gca017591435v1
+  - _penaeus_vannamei_gca003789085v1
+
+
+
+  - _dimorphilus_gyrociliatus_gca904063045v1
+  - _exaiptasia_diaphana_gca001417965v1  Sea anemone
+  - _hypsibius_exemplaris_gca002082055v1
+
+
+
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
+
+
+NB
+  - _Anopheles atroparvus_ (Anopheles maculipennis mosquito complex, GCA\_914969975.1) (N.B. The older GCA\_000473505.1 assembly will be removed from the Release 56)
+
+
+
+
+  - _Anopheles atroparvus_ (Anopheles maculipennis mosquito complex, GCA\_914969975.1) (N.B. The older GCA\_000473505.1 assembly will be removed from the Release 56)
+
+
+daphnia_magna to be removed from 109
+
+hydra_vulgaris_gca000004095v1
+h vul to be replaced with
+hydra_vulgaris_gca022113875v1rs
+in 110
+
+
+octopus_bimaculoides -- refseq annotation loaded as a separate core
+(octopus_bimaculoides_gca001194135v1)
+
