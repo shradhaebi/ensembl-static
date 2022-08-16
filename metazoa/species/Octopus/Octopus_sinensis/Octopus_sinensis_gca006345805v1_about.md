@@ -11,7 +11,9 @@ vulgaris until 2017. Octopus sinensis are carnivores that prey upon on
 many shallow-water animals such as crustaceans and mollusks.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/202201_East_asian_common_octopus.svg/256px-202201_East_asian_common_octopus.svg.png)
+Picture credit: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.en) via Wikimedia Commons [(Image source)](https://commons.wikimedia.org/wiki/File:202201_East_asian_common_octopus.svg)
+
+https://commons.wikimedia.org/wiki/File:202201_East_asian_common_octopus.svg
 
 Taxonomy ID [2607531](https://www.uniprot.org/taxonomy/2607531)
 

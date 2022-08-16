@@ -7,7 +7,7 @@ pools, and various cracks and shaded surfaces such as under rock
 overhangs in the intertidal zone.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Actinia_tenebrosa_%28Waratah_anemone%29.jpg/320px-Actinia_tenebrosa_%28Waratah_anemone%29.jpg)
+Picture credit: [Creative Commons Attribution-Share Alike 2.0](https://creativecommons.org/licenses/by-sa/2.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Actinia_tenebrosa_%28Waratah_anemone%29.jpg)
 
 Taxonomy ID [6105](https://www.uniprot.org/taxonomy/6105)
 

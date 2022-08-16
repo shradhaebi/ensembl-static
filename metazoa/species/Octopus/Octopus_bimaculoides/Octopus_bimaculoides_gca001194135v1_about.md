@@ -8,7 +8,7 @@ about two years old. They are closely related to Verrill's two-spot
 octopus. In 2015, the genome was sequenced.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/CaliforniaTwoSpotOctopus1.jpg/320px-CaliforniaTwoSpotOctopus1.jpg)
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:CaliforniaTwoSpotOctopus1.jpg)
 
 Taxonomy ID [37653](https://www.uniprot.org/taxonomy/37653)
 

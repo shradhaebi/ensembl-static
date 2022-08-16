@@ -14,7 +14,7 @@ to brown with red spines, but several color variations have been
 observed.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lobster.jpg/320px-Lobster.jpg)
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Lobster.jpg)
 
 Taxonomy ID [6706](https://www.uniprot.org/taxonomy/6706)
 

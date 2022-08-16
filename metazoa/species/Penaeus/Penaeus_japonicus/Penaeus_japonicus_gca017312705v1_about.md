@@ -9,7 +9,7 @@ and is accordingly one of the most economically important species in
 the family.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Marsupenaeus_japonicus_-_National_Museum_of_Nature_and_Science%2C_Tokyo_-_DSC07540.JPG/320px-Marsupenaeus_japonicus_-_National_Museum_of_Nature_and_Science%2C_Tokyo_-_DSC07540.JPG)
+Picture credit: [Creative Commons Zero Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/deed.en) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Marsupenaeus_japonicus_-_National_Museum_of_Nature_and_Science%2C_Tokyo_-_DSC07540.JPG)
 
 Taxonomy ID [27405](https://www.uniprot.org/taxonomy/27405)
 

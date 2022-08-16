@@ -10,7 +10,7 @@ sources may use the systematic name Venus mercenaria; this species is
 in the family Veneridae, the venus clams.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LittleNeck_clams_USDA96c1862.jpg/320px-LittleNeck_clams_USDA96c1862.jpg)
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:LittleNeck_clams_USDA96c1862.jpg)
 
 Taxonomy ID [6596](https://www.uniprot.org/taxonomy/6596)
 

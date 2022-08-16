@@ -5,7 +5,7 @@ the family Pectinidae, the scallops. Its name Yesso/Ezo refers to its
 being found north of Japan.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mizuhopecten_yessoensis.jpg/320px-Mizuhopecten_yessoensis.jpg)
+Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Mizuhopecten_yessoensis.jpg)
 
 Taxonomy ID [6573](https://www.uniprot.org/taxonomy/6573)
 

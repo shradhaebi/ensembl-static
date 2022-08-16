@@ -7,7 +7,8 @@ southern and southeastern United States, but also introduced
 elsewhere, where it is often an invasive pest.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Procambarus_clarkii.jpg/320px-Procambarus_clarkii.jpg)
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Procambarus_clarkii.jpg)
+
 
 Taxonomy ID [6728](https://www.uniprot.org/taxonomy/6728)
 

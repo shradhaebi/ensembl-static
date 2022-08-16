@@ -10,7 +10,7 @@ in the north-east Atlantic Ocean and is prized as a delicacy,
 especially in the Iberian Peninsula.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pollicipes_pollicipes.jpg/320px-Pollicipes_pollicipes.jpg)
+Picture credit: [Creative Commons Attribution-Share Alike 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Pollicipes_pollicipes.jpg)
 
 Taxonomy ID [41117](https://www.uniprot.org/taxonomy/41117)
 

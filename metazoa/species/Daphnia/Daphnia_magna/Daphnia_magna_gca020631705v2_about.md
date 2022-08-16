@@ -4,7 +4,7 @@
 subclass Phyllopoda.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Daphnia_magna_asexual.jpg/320px-Daphnia_magna_asexual.jpg)
+Picture credit: [Creative Commons Attribution-Share Alike 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Daphnia_magna_asexual.jpg)
 
 Taxonomy ID [35525](https://www.uniprot.org/taxonomy/35525)
 

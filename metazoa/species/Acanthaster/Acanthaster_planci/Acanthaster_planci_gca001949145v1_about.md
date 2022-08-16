@@ -8,7 +8,7 @@ resembling the biblical crown of thorns. It is one of the largest
 starfish in the world.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/CrownofThornsStarfish_Fiji_2005-10-12.jpg/256px-CrownofThornsStarfish_Fiji_2005-10-12.jpg)
+Picture credit: [Creative Commons Attribution 2.5](https://creativecommons.org/licenses/by/2.5) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:CrownofThornsStarfish_Fiji_2005-10-12.jpg)
 
 Taxonomy ID [133434](https://www.uniprot.org/taxonomy/133434)
 

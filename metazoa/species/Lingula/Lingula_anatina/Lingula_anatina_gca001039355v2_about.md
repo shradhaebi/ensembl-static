@@ -6,7 +6,8 @@ lophophore to extract food from water. They burrow in the sand of
 their brackish intertidal habitat.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/LingulaanatinaAA.JPG/320px-LingulaanatinaAA.JPG)
+Picture credit: [Public domain](https://en.wikipedia.org/wiki/File:LingulaanatinaAA.JPG#Licensing) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:LingulaanatinaAA.JPG)
+
 
 Taxonomy ID [7574](https://www.uniprot.org/taxonomy/7574)
 

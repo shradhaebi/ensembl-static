@@ -10,7 +10,7 @@ found on rocky and gravelly substrates where it feeds on mollusks and
 other benthic invertebrates.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Asterias_rubens.jpg/320px-Asterias_rubens.jpg)
+Picture credit: [Creative Commons Attribution-Share Alike 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Asterias_rubens.jpg)
 
 Taxonomy ID [7604](https://www.uniprot.org/taxonomy/7604)
 

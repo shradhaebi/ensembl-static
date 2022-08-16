@@ -11,7 +11,7 @@ from the webbing between its arms, which is said to resemble a bat's
 wings.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bat_star_%28Asterina_miniata%29_and_purple_urchins_%28Strongylocentrotus_purpuratus%29.jpg/240px-Bat_star_%28Asterina_miniata%29_and_purple_urchins_%28Strongylocentrotus_purpuratus%29.jpg)
+Picture credit: [Public domain](https://commons.wikimedia.org/wiki/Main_Page) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Bat_star_%28Asterina_miniata%29_and_purple_urchins_%28Strongylocentrotus_purpuratus%29.jpg)
 
 Taxonomy ID [46514](https://www.uniprot.org/taxonomy/46514)
 

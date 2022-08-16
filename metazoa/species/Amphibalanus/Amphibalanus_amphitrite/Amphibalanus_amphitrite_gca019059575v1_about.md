@@ -6,7 +6,7 @@ purple acorn barnacle and Amphitrite's rock barnacle. It is found in
 warm and temperate waters worldwide.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Balanus_amphitrite_7631.JPG/287px-Balanus_amphitrite_7631.JPG)
+Picture credit: [Creative Commons Attribution-Share Alike 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Balanus_amphitrite_7631.JPG)
 
 Taxonomy ID [1232801](https://www.uniprot.org/taxonomy/1232801)
 

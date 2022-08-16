@@ -5,7 +5,7 @@ vannamei*) or King prawn, is a species of prawn of the eastern Pacific
 Ocean commonly caught or farmed for food.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Litopenaeus_vannamei_specimen.jpg/320px-Litopenaeus_vannamei_specimen.jpg)
+Picture credit: [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Litopenaeus_vannamei_specimen.jpg)
 
 Taxonomy ID [6689](https://www.uniprot.org/taxonomy/6689)
 

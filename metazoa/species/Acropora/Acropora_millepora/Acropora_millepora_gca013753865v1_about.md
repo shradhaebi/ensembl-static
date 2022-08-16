@@ -5,7 +5,7 @@ the western Indo-Pacific where it is found in shallow water from the
 east coast of Africa to the coasts of Japan and Australia.
 
 
-Picture credit: [LICENSE TYPE]() via Wikimedia Commons [(Image source)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Acropora_millepora_Maldives.jpg/320px-Acropora_millepora_Maldives.jpg)
+Picture credit: [Creative Commons Attribution-Share Alike 4.0](https://creativecommons.org/licenses/by-sa/4.0) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:Acropora_millepora_Maldives.jpg)
 
 Taxonomy ID [45264](https://www.uniprot.org/taxonomy/45264)
 
