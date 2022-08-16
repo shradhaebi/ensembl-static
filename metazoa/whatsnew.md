@@ -2,11 +2,9 @@
 - **Assembly and gene set data updated**
   - _Daphnia magna_ (Fresh water planktonic, GCA\_020631705.2)  (N.B. The older GCA\_001632505.1 assembly will be removed from the Release 56)
   - _Lingula anatina_ (Lamp shell, GCA\_001039355.2) (N.B. The older GCA\_001039355.1 assembly will be removed from the Release 56)
-
 - **Updated gene sets**
   - _Caenorhabditis elegans_ (Nematode worm,  WormBase WS282, GCA\_000002985.3)
   - _Octopus bimaculoides_ (California two-spot octopus, GCA\_001194135.1)  (N.B. A RefSeq annotation variant loaded as a separate core)
-
 - **New species**
   - _Acanthaster planci_ (Crown-of-thorns starfish, GCA\_001949145.1)
   - _Acropora millepora_ (Stony coral, GCA\_013753865.1)
@@ -25,16 +23,13 @@
   - _Pollicipes pollicipes_ (Goose neck barnacle, GCA\_011947565.2)
   - _Portunus trituberculatus_ (Swimming crab, GCA\_017591435.1)
   - _Procambarus clarkii_ (Red swamp crayfish, GCA\_020424385.2)
-
-
+  - TO ADD FOR
   - _Dimorphilus gyrociliatus_ (Segmented worms, GCA\_904063045.1)
   - _Exaiptasia diaphana_ (Sea anemone, GCA\_001417965.1)
   - _Hypsibius exemplaris_  (Water bear tardigrade, GCA\_002082055.1)
   - _Owenia fusiformis_ (Segmented worms, GCA\_903813345.1)
-
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
-
 - **Planned updates**
   - _Anopheles atroparvus_  -- The older GCA\_000473505.1 assembly will be removed from the Release 56
   - _Daphnia magna_  -- The older GCA\_001632505.1 assembly will be removed from the Release 56
