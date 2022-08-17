@@ -2,7 +2,7 @@
 ----------
 
 The annotation presented is derived from annotation submitted to
-[INSDC](http://www.insdc.org) with the assembly accession [GCA_000002075.1](http://www.ebi.ac.uk/ena/data/view/GCA_000002075.1).
+[INSDC](http://www.insdc.org) with the assembly accession [GCA\_000002075.1](http://www.ebi.ac.uk/ena/data/view/GCA_000002075.1).
 
 Ensembl Metazoa displaying genes imported from [NCBI RefSeq](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Aplysia_californica/102) annotation release v102.
 Small RNA features, protein features, BLAST hits and cross-references have been

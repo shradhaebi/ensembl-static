@@ -1,7 +1,7 @@
 **Assembly**
 --------
 
-The assembly presented here has been imported from [INSDC](http://www.insdc.org) and is linked to the assembly accession [[GCA_003704095.1](http://www.ebi.ac.uk/ena/data/view/GCA_003704095.1)].
+The assembly presented here has been imported from [INSDC](http://www.insdc.org) and is linked to the assembly accession [[GCA\_003704095.1](http://www.ebi.ac.uk/ena/data/view/GCA_003704095.1)].
 
 The total length of the assembly is 234350878 bp contained withinin 4393 scaffolds.
 The scaffold N50 value is 326133, the scaffold L50 value is 198.
