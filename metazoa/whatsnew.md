@@ -11,23 +11,22 @@
   - _Actinia tenebrosa_ (Australian red Waratah sea anemone, GCA\_009602425.1)
   - _Amphibalanus amphitrite_ (Acorn barnacle, GCA\_019059575.1)
   - _Asterias rubens_ (European starfish, GCA\_902459465.3) -- [Ensembl GeneBuild](https://rapid.ensembl.org/info/genome/genebuild/full_genebuild.html) annotaion, imported from the [Ensembl Rapid](https://rapid.ensembl.org/Asterias_rubens_GCA_902459465.3/)
+  - _Dimorphilus gyrociliatus_ (Segmented worms, GCA\_904063045.1)
   - _Eurytemora affinis_ (Calanoid copepod, GCA\_000591075.2)
+  - _Exaiptasia diaphana_ (Sea anemone, GCA\_001417965.1)
   - _Homarus americanus_ (American lobster, GCA\_018991925.1)
   - _Hyalella azteca_ (Amphipod, GCA\_000764305.2)
+  - _Hypsibius exemplaris_  (Water bear tardigrade, GCA\_002082055.1)
   - _Mercenaria mercenaria_ (Hard clam, quahog, GCA\_014805675.2)
   - _Mizuhopecten yessoensis_ (Yesso scallop, GCA\_002113885.2)
   - _Octopus sinensis_ (East Asian common octopus, GCA\_006345805.1)
+  - _Owenia fusiformis_ (Segmented worms, GCA\_903813345.1)
   - _Patiria miniata_ (Bat star starfish, GCA\_015706575.1)
   - _Penaeus japonicus_ (Kuruma shrimp, GCA\_017312705.1)
   - _Penaeus vannamei_ (Pacific white shrimp, GCA\_003789085.1)
   - _Pollicipes pollicipes_ (Goose neck barnacle, GCA\_011947565.2)
   - _Portunus trituberculatus_ (Swimming crab, GCA\_017591435.1)
   - _Procambarus clarkii_ (Red swamp crayfish, GCA\_020424385.2)
-  - TO ADD FOR
-  - _Dimorphilus gyrociliatus_ (Segmented worms, GCA\_904063045.1)
-  - _Exaiptasia diaphana_ (Sea anemone, GCA\_001417965.1)
-  - _Hypsibius exemplaris_  (Water bear tardigrade, GCA\_002082055.1)
-  - _Owenia fusiformis_ (Segmented worms, GCA\_903813345.1)
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
 - **Planned updates**
