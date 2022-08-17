@@ -34,3 +34,4 @@
   - _Daphnia magna_  -- The older GCA\_001632505.1 assembly will be removed from the Release 56
   - _Lingula anatina_  -- The older GCA\_001039355.1 assembly will be removed from the Release 56
   - _Hydra vulgaris_ -- The GCA\_000004095.1 assembly will be removed from Release 57
+  - _Metaseiulus occidentalis_ (GCA\_000255335.1) will be updated to GCA\_000255335.2 and renamed to  _Galendromus occidentalis_, swappig names with the current synonym (though, _Metaseiulus occidentalis_ will be kept as a synonym)
