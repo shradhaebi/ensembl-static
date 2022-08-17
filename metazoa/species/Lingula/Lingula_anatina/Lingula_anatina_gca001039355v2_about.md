@@ -1,13 +1,14 @@
 **About *Lingula anatina***
 -------------------------
-*Lingula anatina* is a brachiopod species in the genus Lingula. Like 
-others in its genus, L. anatina is a filter feeder that uses a 
-lophophore to extract food from water. They burrow in the sand of 
+*Lingula anatina* is a brachiopod species in the genus Lingula. Like
+others in its genus, L. anatina is a filter feeder that uses a
+lophophore to extract food from water. They burrow in the sand of
 their brackish intertidal habitat.
 
 
-Picture credit: [Public domain](https://en.wikipedia.org/wiki/File:LingulaanatinaAA.JPG#Licensing) via Wikimedia Commons [(Image source)](https://en.wikipedia.org/wiki/File:LingulaanatinaAA.JPG)
 
+Picture credit (Creative Commons BY-SA 3.0): [Drow
+Male](https://commons.wikimedia.org/wiki/File:Lingula_anatina_7.JPG)
 
 Taxonomy ID [7574](https://www.uniprot.org/taxonomy/7574)
 
