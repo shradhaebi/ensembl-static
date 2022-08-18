@@ -4,8 +4,8 @@ The American lobster (*Homarus americanus*) is a species of lobster
 found on the Atlantic coast of North America, chiefly from Labrador to
 New Jersey. It is also known as Atlantic lobster, Canadian lobster,
 true lobster, northern lobster, Canadian Reds, or Maine lobster. It
-can reach a body length of 64�cm (25�in), and a mass of over 20
-kilograms (44�lb), making it not only the heaviest crustacean in the
+can reach a body length of 64 cm (25 in), and a mass of over 20
+kilograms (44 lb), making it not only the heaviest crustacean in the
 world, but also the heaviest of all living arthropod species. Its
 closest relative is the European lobster Homarus gammarus, which can
 be distinguished by its coloration and the lack of spines on the
