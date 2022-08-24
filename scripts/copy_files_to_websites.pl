@@ -98,7 +98,7 @@ print "\n\n###################################################\n";
 
 ## Check that ensembl-static is on same branch as desired eg-version 
 ## and pull any updates from github
-my $branch = $site eq 'staging' ? 'master' : sprintf('release/eg/%s', $eg_version);
+my $branch = $site eq 'staging' ? 'main' : sprintf('release/eg/%s', $eg_version);
 chdir $SCRIPT_ROOT;
 my $cmd = "git checkout $branch && git pull";
 if ($dryrun) {
