@@ -1,9 +1,9 @@
 - Genomes
-    - EnsemblFungi has 1506 genomes in total
-		- 477 new genomes imported from [ENA] (https://www.ebi.ac.uk/ena/browser/home)
-		- 15 genomes imported from [VEuPath DB](https://veupathdb.org/veupathdb/app)
+    - EnsemblFungi has 1505 genomes in total
+    - No updates to genomes since the previous release
 
 - Updated data 
+    - Updated annotation of molecular interactions involving fungal genes
     - Updated protein features for all species using [InterProScan](http://www.ebi.ac.uk/interpro/search/sequence-search)
     - Updated BioMarts for all gene and variation data
     - Updated pan-taxonomic gene trees and homologies
