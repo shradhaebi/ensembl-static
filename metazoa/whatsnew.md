@@ -1,9 +1,9 @@
 ### Updated data
 - **Assembly and gene set data updated**
-  - _Hydra vulgaris_ -- (Swiftwater hydra, GCA\_000004095.1) assembly updated to new assembly GCA\_022113875.1 in current Release 57
+  - _Hydra vulgaris_ -- (Swiftwater hydra, GCA\_000004095.1) assembly updated to new assembly GCA\_022113875.1
   - _Metaseiulus occidentalis_ (Western predatory mite, GCA\_000255335.1) assembly updated to GCA\_000255335.2 and renamed to  _Galendromus occidentalis_, swappig names with the current synonym (though, _Metaseiulus occidentalis_ kept as a synonym)
-  - _Daphnia pulex_ (Common water flea, GCA\_021134715.1) (N.B The older assembly (GCA\_000187875.1) to be removed in Release 58)
-  - _Lepeophtheirus salmonis_ (Salmon louse, GCA\_016086655.3) (N.B The older assembly (LSalAtl2s) to be removed in Release 58)
+  - _Daphnia pulex_ (Common water flea, GCA\_021134715.1) (N.B The older assembly (GCA\_000187875.1) to be removed in Release 57)
+  - _Lepeophtheirus salmonis_ (Salmon louse, GCA\_016086655.3) (N.B The older assembly (LSalAtl2s) to be removed in Release 57)
 - **Updated gene sets**
 - **New species**
   - _Acromyrmex echinatior_ (Panamanian leaf-cutter ant, GCA\_000204515.1)
@@ -28,9 +28,11 @@
 - **Updated BioMarts for all gene and variation data**
 - **Updated pan-taxonomic gene trees and homologies**
 - **Planned updates**
-  - _Daphnia pulex_ -- The older GCA\_000187875.1 assembly to be removed from Release 58
-  - _Hydra vulgaris_ -- (GCA\_000004095.1) assembly to be removed from Release 58
-  - _Lingula anatina_  -- The older GCA\_001039355.1 assembly to be removed from Release 58
-  - _Lepeophtheirus salmonis_ The older LSalAtl2s assembly to be removed from Release 58
-  - _Metaseiulus occidentalis_ The older GCA\_000255335.1 assembly to be removed from Release 58
-  - _Phlebotomus perniciosus_  -- The older GCA\_918844115.1 assembly to be replaced with updated assembly GCA\_918844115.2 from Release 58
+  - _Acyrthosiphonon pisum_ -- The assembly version update in Release 57 (GCA\_005508785.1 -> GCA\_005508785.2)
+  - _Amphimedon queenslandica_ -- The assembly version update in Release 57 (GCA_000090795.1 --> GCA\_000090795.2)
+  - _Daphnia pulex_ -- The older GCA\_000187875.1 assembly to be removed from Release 57
+  - _Hydra vulgaris_ -- (GCA\_000004095.1) assembly to be removed from Release 57
+  - _Lingula anatina_  -- The assembly version update in Release 57 (GCA\_001039355.1 -> GCA\_001039355.2)
+  - _Lepeophtheirus salmonis_  -- The older LSalAtl2s assembly to be removed from Release 57
+  - _Metaseiulus occidentalis_ -- The older GCA\_000255335.1 assembly to be removed from Release 57
+  - _Phlebotomus perniciosus_  -- The assembly version update in Release 57 (GCA\_918844115.1 -> GCA\_918844115.2)
