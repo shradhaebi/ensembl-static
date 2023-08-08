@@ -1,4 +1,3 @@
-
 ### References
 
 1.  [*Caenorhabditis briggsae* recombinant inbred line genotypes reveal
@@ -15,4 +14,3 @@
     Stein LD, Bao Z, Blasiar D, Blumenthal T, Brent MR, Chen N,
     Chinwalla A, Clarke L, Clee C, Coghlan A et al. 2003. PLoS Biology.
     1:E45.
-
