@@ -16,5 +16,4 @@ Members of the *B. tabaci* species complex cause plant damage by feeding on plan
 
 *Bemisia tabaci* *sensu lato* are distributed globally, from tropical to temperate climatic zones and across all continents (except Antarctica) [2]. Most cryptic species in this complex, as currently understood, are geographically restricted, but two of them are highly invasive globally i.e., *B. tabaci* Middle East-Asia Minor 1 (MEAM1, also referred to as biotype B and *Bemisia argentifolii*) and *B. tabaci* Mediterranean (MED, also referred to as biotype Q) [2]. *Bemisia tabaci* *sensu lato* live predominantly on herbaceous plant hosts and have been recorded from an exceedingly broad range of host plants (>500 species) [15]. The documented host-plant range of most cryptic species within the complex remains largely incomplete. 
 
-
 Picture credit: [Sharon van Brunschot](https://scholar.google.com.au/citations?hl=en&user=uhUMwrQAAAAJ).

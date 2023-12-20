@@ -48,5 +48,4 @@
   - _Octopus bimaculoides_ (California two-spot octopus) - The older GCA_\001194135.1 assembly with RefSeq and community annotations both to be removed from Release 59.
   - Release 60:
   - _Athalia rosa_ (Coleseed sawfly) - The GCA\_000344095.2 assembly to be removed from Release 60.
-  - _Bombus terrestris_ (Buff-tailed bumblebee) - The older GCA\_000214255.1 assembly to be removed from Release 60.
   - _Melitaea cinxia_ (Glanville fritillary) - The older GCA\_000716385.1 assembly to be removed from Release 60.
